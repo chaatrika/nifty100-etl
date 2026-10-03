@@ -11,6 +11,9 @@ SIMULATED labels in dashboard, sector/tearsheet/portfolio PDFs, API market-cap r
 ## Also updated
 analyst_guide.py (uppercase SIMULATED, new tearsheet/sector wording) and regenerated docs/analyst_guide.pdf + docs/acceptance_checklist.pdf; README; tests/reports/test_reports.py (JIOFIN now gets a tearsheet, unknown ticker skipped, 11 sector reports); acceptance_gates.csv AC-17 detail.
 
+## Git upload
+Run `.\push_to_github.ps1` (PowerShell). .gitignore now lets all 23 deliverables upload.
+
 ## Still required on your machine
 Run `make test` (pytest, streamlit and fastapi were not installable here). It regenerates reports/pytest_report.html (D-21) and must show 0 failures before the Git commit. I ran the report tests by hand (all pass), but not the full 200-test suite.
 Caution: the tearsheet tests call run_batch, which rewrites output/skipped_tearsheets.csv; after `make test`, run `python -m src.reports.tearsheet` once to restore it.

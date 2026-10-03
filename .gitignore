@@ -1,20 +1,16 @@
-# Generated database (rebuild with `make load`)
-
 # Python
 __pycache__/
 *.pyc
 .venv/
 *.egg-info/
+.pytest_cache/
+.coverage
 
-# Env
+# Secrets / local settings (never commit)
 .env
-
-# Generated reports (rebuild with `make report`)
-
-# Generated audit output (rebuild with `make load`)
 
 # OS
 .DS_Store
 
-.coverage
-.pytest_cache/
+# NOTE: data/nifty100.db, output/*.csv, reports/*.pdf and reports/radar_charts/*.png
+# are project deliverables (D-01..D-19) and ARE committed on purpose.
