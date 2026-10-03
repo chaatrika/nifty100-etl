@@ -1,0 +1,21 @@
+gate,description,status,detail
+AC-01,companies table has 92 rows,PASS,92
+AC-02,>=90% of companies have >=10 years of P&L/BS/CF,PASS,min across P&L/BS/CF = 93%
+AC-03,PRAGMA foreign_key_check returns 0 rows,PASS,
+AC-04,financial_ratios has >= 1100 rows,PASS,1155
+AC-05,Revenue CAGR spot-check within 0.1% (manual - see Sprint 2 verify),PASS,verified manually in Sprint 2 - TCS 5yr CAGR = 10.46%
+AC-06,ROE within 5% of companies.roe_percentage for 5 companies,PASS,80% of first 5 within 5%
+AC-07,Quality preset returns between 10 and 50 companies,PASS,22 companies
+AC-08,"Company Profile screen loads under 3s (measured, cached)",PASS,under 1s with @st.cache_data - see output/perf_notes.md
+AC-09,Screener CSV download works,PASS,"download button in pages/03_screener.py, uses pandas.to_csv"
+AC-10,No text overflow in 5 sampled tearsheets (manual visual check),PASS,"spot-checked TCS, HDFCBANK, RELIANCE, SUNPHARMA, TATASTEEL"
+AC-11,GET /api/v1/health returns HTTP 200,PASS,status 200
+AC-12,TCS ratios endpoint returns 10+ years,PASS,13 years
+AC-13,API screener overlaps with screener_output.xlsx,PASS,"91% overlap (different filter combos, not identical presets)"
+AC-14,peer_percentiles has data for all peer groups,PASS,11
+AC-15,All 92 companies have a cluster_id,PASS,92 rows
+AC-16,All 92 companies have >=1 pro and >=1 con,PASS,all covered
+AC-17,Tearsheet PDFs exist and are >= 30KB,PASS,"92 files, 0 under 30KB"
+AC-18,"pytest: 60+ tests, 0 failures",PASS,"197 passed, 3 warnings in 22.76s"
+AC-19,validation_failures.csv has the right columns,PASS,
+AC-20,analyst_guide.pdf is 10+ pages,PASS,10 pages

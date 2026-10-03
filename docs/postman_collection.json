@@ -1,0 +1,212 @@
+{
+  "info": {
+    "name": "Nifty 100 Analytics API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Health",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:8000/api/v1/health",
+          "host": [
+            "localhost:8000/api/v1/health"
+          ]
+        }
+      }
+    },
+    {
+      "name": "List Companies",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:8000/api/v1/companies",
+          "host": [
+            "localhost:8000/api/v1/companies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Company Profile",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:8000/api/v1/companies/{ticker}",
+          "host": [
+            "localhost:8000/api/v1/companies/{ticker}"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Profit And Loss",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:8000/api/v1/companies/{ticker}/pl",
+          "host": [
+            "localhost:8000/api/v1/companies/{ticker}/pl"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Balance Sheet",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:8000/api/v1/companies/{ticker}/bs",
+          "host": [
+            "localhost:8000/api/v1/companies/{ticker}/bs"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cash Flow",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:8000/api/v1/companies/{ticker}/cashflow",
+          "host": [
+            "localhost:8000/api/v1/companies/{ticker}/cashflow"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Ratios",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:8000/api/v1/companies/{ticker}/ratios",
+          "host": [
+            "localhost:8000/api/v1/companies/{ticker}/ratios"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Tearsheet",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:8000/api/v1/companies/{ticker}/tearsheet",
+          "host": [
+            "localhost:8000/api/v1/companies/{ticker}/tearsheet"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Peer Compare",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:8000/api/v1/companies/{ticker}/peers/compare",
+          "host": [
+            "localhost:8000/api/v1/companies/{ticker}/peers/compare"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Documents",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:8000/api/v1/companies/{ticker}/documents",
+          "host": [
+            "localhost:8000/api/v1/companies/{ticker}/documents"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Screener",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:8000/api/v1/screener",
+          "host": [
+            "localhost:8000/api/v1/screener"
+          ]
+        }
+      }
+    },
+    {
+      "name": "List Sectors",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:8000/api/v1/sectors",
+          "host": [
+            "localhost:8000/api/v1/sectors"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Sector Companies",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:8000/api/v1/sectors/{sector}/companies",
+          "host": [
+            "localhost:8000/api/v1/sectors/{sector}/companies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Peer Group",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:8000/api/v1/peers/{group_name}",
+          "host": [
+            "localhost:8000/api/v1/peers/{group_name}"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Market Cap History",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:8000/api/v1/market-cap/{ticker}",
+          "host": [
+            "localhost:8000/api/v1/market-cap/{ticker}"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Portfolio Stats",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:8000/api/v1/portfolio/stats",
+          "host": [
+            "localhost:8000/api/v1/portfolio/stats"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Root",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:8000/",
+          "host": [
+            "localhost:8000/"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,6 +1,20 @@
+# Generated database (rebuild with `make load`)
+
+# Python
 __pycache__/
 *.pyc
-*.db
-.pytest_cache/
-venv/
+.venv/
+*.egg-info/
 
+# Env
+.env
+
+# Generated reports (rebuild with `make report`)
+
+# Generated audit output (rebuild with `make load`)
+
+# OS
+.DS_Store
+
+.coverage
+.pytest_cache/

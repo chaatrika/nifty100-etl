@@ -1,0 +1,257 @@
+# ratio_edge_cases.log (category is a first guess - confirm every line in the Day 14 review)
+# company | metric | computed | source | diff | category | reason
+CHOLAFIN | ROCE | 3.15 | 10.40 | 7.25 | formula discrepancy | bank / NBFC capital base is different from the normal formula
+COALINDIA | ROE | 45.17 | 52.00 | 6.83 | version difference | source is a latest/TTM figure, ours is the latest annual year
+ADANIGREEN | ROCE | 8.94 | 96.50 | 87.56 | version difference | source is a latest/TTM figure, ours is the latest annual year
+ADANIENT | ROE | 8.53 | 13.64 | 5.11 | version difference | source is a latest/TTM figure, ours is the latest annual year
+BAJAJFINSV | ROE | 25.85 | 11.72 | 14.13 | formula discrepancy | bank / NBFC capital base is different from the normal formula
+BAJAJFINSV | ROCE | 11.45 | 21.14 | 9.69 | formula discrepancy | bank / NBFC capital base is different from the normal formula
+BAJFINANCE | ROCE | 5.22 | 11.90 | 6.68 | formula discrepancy | bank / NBFC capital base is different from the normal formula
+ASIANPAINT | ROCE | 35.62 | 41.75 | 6.13 | version difference | source is a latest/TTM figure, ours is the latest annual year
+BEL | ROE | 4744.05 | 26.30 | 4717.75 | data source issue | our value is impossible (over 100%), so equity/reserves in the data look wrong
+BEL | ROCE | 4155.91 | 34.60 | 4121.31 | data source issue | our value is impossible (over 100%), so equity/reserves in the data look wrong
+ADANIPOWER | ROE | 48.28 | 57.10 | 8.82 | version difference | source is a latest/TTM figure, ours is the latest annual year
+BOSCHLTD | ROCE | 26.70 | 20.60 | 6.10 | version difference | source is a latest/TTM figure, ours is the latest annual year
+TRENT | ROE | 36.31 | 27.20 | 9.11 | version difference | source is a latest/TTM figure, ours is the latest annual year
+TRENT | ROCE | 39.32 | 23.80 | 15.52 | version difference | source is a latest/TTM figure, ours is the latest annual year
+BPCL | ROE | 35.51 | 41.90 | 6.39 | version difference | source is a latest/TTM figure, ours is the latest annual year
+LICI | ROE | 49.45 | 63.61 | 14.16 | formula discrepancy | bank / NBFC capital base is different from the normal formula
+LICI | ROCE | 56.97 | 63.79 | 6.82 | formula discrepancy | bank / NBFC capital base is different from the normal formula
+LT | ROE | 77.67 | 10.49 | 67.18 | version difference | source is a latest/TTM figure, ours is the latest annual year
+LT | ROCE | 135.95 | 17.18 | 118.77 | data source issue | our value is impossible (over 100%), so equity/reserves in the data look wrong
+LTIM | ROCE | 28.39 | 34.10 | 5.71 | version difference | source is a latest/TTM figure, ours is the latest annual year
+M&M | ROCE | 13.42 | 26.98 | 13.56 | version difference | source is a latest/TTM figure, ours is the latest annual year
+NESTLEIND | ROE | 117.75 | 135.61 | 17.86 | data source issue | source value looks like a ratio or an outlier, not a percentage
+NESTLEIND | ROCE | 147.46 | 185.43 | 37.97 | data source issue | source value looks like a ratio or an outlier, not a percentage
+PFC | ROE | 26.16 | 19.49 | 6.67 | formula discrepancy | bank / NBFC capital base is different from the normal formula
+PNB | ROE | 61.32 | 8.70 | 52.62 | formula discrepancy | bank / NBFC capital base is different from the normal formula
+PNB | ROCE | 118.22 | 1.63 | 116.59 | data source issue | our value is impossible (over 100%), so equity/reserves in the data look wrong
+TCS | ROE | 50.94 | 0.52 | 50.42 | data source issue | source value looks like a ratio or an outlier, not a percentage
+IRCTC | ROE | 34.40 | 40.40 | 6.00 | version difference | source is a latest/TTM figure, ours is the latest annual year
+IRCTC | ROCE | 46.05 | 53.80 | 7.75 | version difference | source is a latest/TTM figure, ours is the latest annual year
+TATASTEEL | ROE | -5.33 | 6.55 | 11.88 | version difference | source is a latest/TTM figure, ours is the latest annual year
+GODREJCP | ROE | -4.45 | 6.77 | 11.22 | version difference | source is a latest/TTM figure, ours is the latest annual year
+GODREJCP | ROCE | 3.21 | 26.49 | 23.28 | version difference | source is a latest/TTM figure, ours is the latest annual year
+HAL | ROE | 3816.58 | 28.90 | 3787.68 | data source issue | our value is impossible (over 100%), so equity/reserves in the data look wrong
+HAL | ROCE | 3180.75 | 38.90 | 3141.85 | data source issue | our value is impossible (over 100%), so equity/reserves in the data look wrong
+TATAMOTORS | ROE | 37.46 | 49.40 | 11.94 | version difference | source is a latest/TTM figure, ours is the latest annual year
+ICICIPRULI | ROCE | 32.76 | 8.75 | 24.01 | formula discrepancy | bank / NBFC capital base is different from the normal formula
+INDIGO | ROCE | 1112.55 | 24.50 | 1088.05 | data source issue | our value is impossible (over 100%), so equity/reserves in the data look wrong
+
+# OPM difference bigger than 1 point: 216 rows
+OPM_MISMATCH company=ADANIENSOL year=2024-03 computed=34.39 reported=30.00 diff=4.39
+OPM_MISMATCH company=AXISBANK year=2013-03 computed=30.58 reported=1353.00 diff=1322.42
+OPM_MISMATCH company=AXISBANK year=2014-03 computed=31.47 reported=2307.00 diff=2275.53
+OPM_MISMATCH company=AXISBANK year=2015-03 computed=31.36 reported=3097.00 diff=3065.64
+OPM_MISMATCH company=AXISBANK year=2016-03 computed=32.61 reported=3466.00 diff=3433.39
+OPM_MISMATCH company=AXISBANK year=2017-03 computed=53.45 reported=-5715.00 diff=5768.45
+OPM_MISMATCH company=AXISBANK year=2018-03 computed=63.12 reported=-10277.00 diff=10340.12
+OPM_MISMATCH company=AXISBANK year=2019-03 computed=49.39 reported=-5447.00 diff=5496.39
+OPM_MISMATCH company=AXISBANK year=2020-03 computed=55.98 reported=-9859.00 diff=9914.98
+OPM_MISMATCH company=AXISBANK year=2021-03 computed=50.12 reported=-2510.00 diff=2560.12
+OPM_MISMATCH company=AXISBANK year=2022-03 computed=44.47 reported=3170.00 diff=3125.53
+OPM_MISMATCH company=AXISBANK year=2023-03 computed=34.16 reported=13857.00 diff=13822.84
+OPM_MISMATCH company=AXISBANK year=2024-03 computed=34.69 reported=11952.00 diff=11917.31
+OPM_MISMATCH company=BAJFINANCE year=2015-03 computed=32.49 reported=1367.00 diff=1334.51
+OPM_MISMATCH company=BAJFINANCE year=2016-03 computed=32.25 reported=1986.00 diff=1953.75
+OPM_MISMATCH company=BAJFINANCE year=2017-03 computed=32.60 reported=2867.00 diff=2834.40
+OPM_MISMATCH company=BAJFINANCE year=2018-03 computed=32.28 reported=3935.00 diff=3902.72
+OPM_MISMATCH company=BAJFINANCE year=2019-03 computed=29.50 reported=6310.00 diff=6280.50
+OPM_MISMATCH company=BAJFINANCE year=2020-03 computed=34.73 reported=7608.00 diff=7573.27
+OPM_MISMATCH company=BAJFINANCE year=2021-03 computed=40.64 reported=6314.00 diff=6273.36
+OPM_MISMATCH company=BAJFINANCE year=2022-03 computed=37.55 reported=9906.00 diff=9868.45
+OPM_MISMATCH company=BAJFINANCE year=2023-03 computed=30.65 reported=16018.00 diff=15987.35
+OPM_MISMATCH company=BAJFINANCE year=2024-03 computed=29.29 reported=19987.00 diff=19957.71
+OPM_MISMATCH company=BANKBARODA year=2013-03 computed=30.05 reported=1006.00 diff=975.95
+OPM_MISMATCH company=BANKBARODA year=2014-03 computed=29.78 reported=809.00 diff=779.22
+OPM_MISMATCH company=BANKBARODA year=2015-03 computed=29.98 reported=902.00 diff=872.02
+OPM_MISMATCH company=BANKBARODA year=2016-03 computed=55.44 reported=-11700.00 diff=11755.44
+OPM_MISMATCH company=BANKBARODA year=2017-03 computed=43.28 reported=-4372.00 diff=4415.28
+OPM_MISMATCH company=BANKBARODA year=2018-03 computed=56.65 reported=-9197.00 diff=9253.65
+OPM_MISMATCH company=BANKBARODA year=2019-03 computed=48.79 reported=-5414.00 diff=5462.79
+OPM_MISMATCH company=BANKBARODA year=2020-03 computed=51.44 reported=-11728.00 diff=11779.44
+OPM_MISMATCH company=BANKBARODA year=2021-03 computed=51.23 reported=-6957.00 diff=7008.23
+OPM_MISMATCH company=BANKBARODA year=2022-03 computed=51.12 reported=-2948.00 diff=2999.12
+OPM_MISMATCH company=BANKBARODA year=2023-03 computed=40.45 reported=6329.00 diff=6288.55
+OPM_MISMATCH company=BANKBARODA year=2024-03 computed=37.49 reported=4102.00 diff=4064.51
+OPM_MISMATCH company=CANBK year=2013-03 computed=21.18 reported=655.00 diff=633.82
+OPM_MISMATCH company=CANBK year=2014-03 computed=24.35 reported=-672.00 diff=696.35
+OPM_MISMATCH company=CANBK year=2015-03 computed=23.51 reported=-621.00 diff=644.51
+OPM_MISMATCH company=CANBK year=2016-03 computed=40.38 reported=-8008.00 diff=8048.38
+OPM_MISMATCH company=CANBK year=2017-03 computed=37.85 reported=-5775.00 diff=5812.85
+OPM_MISMATCH company=CANBK year=2018-03 computed=61.87 reported=-13350.00 diff=13411.87
+OPM_MISMATCH company=CANBK year=2019-03 computed=56.73 reported=-11590.00 diff=11646.73
+OPM_MISMATCH company=CANBK year=2020-03 computed=53.88 reported=-12867.00 diff=12920.88
+OPM_MISMATCH company=CANBK year=2021-03 computed=61.83 reported=-18367.00 diff=18428.83
+OPM_MISMATCH company=CANBK year=2022-03 computed=58.39 reported=-13657.00 diff=13715.39
+OPM_MISMATCH company=CANBK year=2023-03 computed=49.80 reported=-9877.00 diff=9926.80
+OPM_MISMATCH company=CANBK year=2024-03 computed=41.75 reported=-7745.00 diff=7786.75
+OPM_MISMATCH company=CHOLAFIN year=2013-03 computed=26.77 reported=472.00 diff=445.23
+OPM_MISMATCH company=CHOLAFIN year=2014-03 computed=28.42 reported=578.00 diff=549.58
+OPM_MISMATCH company=CHOLAFIN year=2015-03 computed=28.56 reported=696.00 diff=667.44
+OPM_MISMATCH company=CHOLAFIN year=2016-03 computed=30.04 reported=899.00 diff=868.96
+OPM_MISMATCH company=CHOLAFIN year=2017-03 computed=28.16 reported=1143.00 diff=1114.84
+OPM_MISMATCH company=CHOLAFIN year=2018-03 computed=26.10 reported=1451.00 diff=1424.90
+OPM_MISMATCH company=CHOLAFIN year=2019-03 computed=22.96 reported=1888.00 diff=1865.04
+OPM_MISMATCH company=CHOLAFIN year=2020-03 computed=27.79 reported=1699.00 diff=1671.21
+OPM_MISMATCH company=CHOLAFIN year=2021-03 computed=30.40 reported=2094.00 diff=2063.60
+OPM_MISMATCH company=CHOLAFIN year=2022-03 computed=28.83 reported=2924.00 diff=2895.17
+OPM_MISMATCH company=CHOLAFIN year=2023-03 computed=28.10 reported=3515.00 diff=3486.90
+OPM_MISMATCH company=CHOLAFIN year=2024-03 computed=28.10 reported=4548.00 diff=4519.90
+OPM_MISMATCH company=CIPLA year=2013-03 computed=73.26 reported=2214.00 diff=2140.74
+OPM_MISMATCH company=CIPLA year=2014-03 computed=78.90 reported=2147.00 diff=2068.10
+OPM_MISMATCH company=CIPLA year=2015-03 computed=80.94 reported=2163.00 diff=2082.06
+OPM_MISMATCH company=CIPLA year=2016-03 computed=82.02 reported=2480.00 diff=2397.98
+OPM_MISMATCH company=CIPLA year=2017-03 computed=82.66 reported=2496.00 diff=2413.34
+OPM_MISMATCH company=CIPLA year=2018-03 computed=81.35 reported=2826.00 diff=2744.65
+OPM_MISMATCH company=CIPLA year=2019-03 computed=81.07 reported=3097.00 diff=3015.93
+OPM_MISMATCH company=CIPLA year=2020-03 computed=81.29 reported=3206.00 diff=3124.71
+OPM_MISMATCH company=CIPLA year=2021-03 computed=77.80 reported=4252.00 diff=4174.20
+OPM_MISMATCH company=CIPLA year=2022-03 computed=79.08 reported=4553.00 diff=4473.92
+OPM_MISMATCH company=CIPLA year=2023-03 computed=77.91 reported=5027.00 diff=4949.09
+OPM_MISMATCH company=CIPLA year=2024-03 computed=75.59 reported=6291.00 diff=6215.41
+OPM_MISMATCH company=COALINDIA year=2013-03 computed=73.52 reported=18087.00 diff=18013.48
+OPM_MISMATCH company=COALINDIA year=2014-03 computed=74.84 reported=17766.00 diff=17691.16
+OPM_MISMATCH company=COALINDIA year=2015-03 computed=76.60 reported=17343.00 diff=17266.40
+OPM_MISMATCH company=COALINDIA year=2016-03 computed=75.96 reported=18714.00 diff=18638.04
+OPM_MISMATCH company=COALINDIA year=2017-03 computed=84.07 reported=12448.00 diff=12363.93
+OPM_MISMATCH company=COALINDIA year=2018-03 computed=89.10 reported=9288.00 diff=9198.90
+OPM_MISMATCH company=COALINDIA year=2019-03 computed=74.89 reported=25007.00 diff=24932.11
+OPM_MISMATCH company=COALINDIA year=2020-03 computed=77.54 reported=21581.00 diff=21503.46
+OPM_MISMATCH company=COALINDIA year=2021-03 computed=79.31 reported=18628.00 diff=18548.69
+OPM_MISMATCH company=COALINDIA year=2022-03 computed=77.47 reported=24721.00 diff=24643.53
+OPM_MISMATCH company=COALINDIA year=2023-03 computed=68.01 reported=44232.00 diff=44163.99
+OPM_MISMATCH company=COALINDIA year=2024-03 computed=66.29 reported=47971.00 diff=47904.71
+OPM_MISMATCH company=HDFCBANK year=2013-03 computed=35.22 reported=3534.00 diff=3498.78
+OPM_MISMATCH company=HDFCBANK year=2014-03 computed=31.74 reported=5602.00 diff=5570.26
+OPM_MISMATCH company=HDFCBANK year=2015-03 computed=31.90 reported=7214.00 diff=7182.10
+OPM_MISMATCH company=HDFCBANK year=2016-03 computed=31.75 reported=9037.00 diff=9005.25
+OPM_MISMATCH company=HDFCBANK year=2017-03 computed=32.56 reported=11374.00 diff=11341.44
+OPM_MISMATCH company=HDFCBANK year=2018-03 computed=34.63 reported=13374.00 diff=13339.37
+OPM_MISMATCH company=HDFCBANK year=2019-03 computed=33.15 reported=16592.00 diff=16558.85
+OPM_MISMATCH company=HDFCBANK year=2020-03 computed=37.20 reported=14593.00 diff=14555.80
+OPM_MISMATCH company=HDFCBANK year=2021-03 computed=40.81 reported=16848.00 diff=16807.19
+OPM_MISMATCH company=HDFCBANK year=2022-03 computed=41.61 reported=20795.00 diff=20753.39
+OPM_MISMATCH company=HDFCBANK year=2023-03 computed=36.92 reported=29932.00 diff=29895.08
+OPM_MISMATCH company=HDFCBANK year=2024-03 computed=61.41 reported=-44685.00 diff=44746.41
+OPM_MISMATCH company=HDFCLIFE year=2013-03 computed=96.27 reported=525.00 diff=428.73
+OPM_MISMATCH company=HDFCLIFE year=2014-03 computed=96.48 reported=605.00 diff=508.52
+OPM_MISMATCH company=HDFCLIFE year=2015-03 computed=96.79 reported=874.00 diff=777.21
+OPM_MISMATCH company=HDFCLIFE year=2016-03 computed=94.74 reported=953.00 diff=858.26
+OPM_MISMATCH company=HDFCLIFE year=2017-03 computed=96.83 reported=972.00 diff=875.17
+OPM_MISMATCH company=HDFCLIFE year=2018-03 computed=96.67 reported=1074.00 diff=977.33
+OPM_MISMATCH company=HDFCLIFE year=2019-03 computed=96.87 reported=1215.00 diff=1118.13
+OPM_MISMATCH company=HDFCLIFE year=2020-03 computed=96.12 reported=1141.00 diff=1044.88
+OPM_MISMATCH company=HDFCLIFE year=2021-03 computed=98.27 reported=1235.00 diff=1136.73
+OPM_MISMATCH company=HDFCLIFE year=2022-03 computed=98.84 reported=778.00 diff=679.16
+OPM_MISMATCH company=HDFCLIFE year=2023-03 computed=99.89 reported=80.00 diff=19.89
+OPM_MISMATCH company=HDFCLIFE year=2024-03 computed=99.48 reported=531.00 diff=431.52
+OPM_MISMATCH company=HEROMOTOCO year=2014-03 computed=85.94 reported=3553.00 diff=3467.06
+OPM_MISMATCH company=HEROMOTOCO year=2015-03 computed=87.22 reported=3520.00 diff=3432.78
+OPM_MISMATCH company=HEROMOTOCO year=2016-03 computed=84.45 reported=4424.00 diff=4339.55
+OPM_MISMATCH company=HEROMOTOCO year=2017-03 computed=83.97 reported=4585.00 diff=4501.03
+OPM_MISMATCH company=HEROMOTOCO year=2018-03 computed=83.57 reported=5334.00 diff=5250.43
+OPM_MISMATCH company=HEROMOTOCO year=2019-03 computed=85.21 reported=5025.00 diff=4939.79
+OPM_MISMATCH company=HEROMOTOCO year=2020-03 computed=86.09 reported=4070.00 diff=3983.91
+OPM_MISMATCH company=HEROMOTOCO year=2021-03 computed=86.90 reported=4058.00 diff=3971.10
+OPM_MISMATCH company=HEROMOTOCO year=2022-03 computed=88.98 reported=3256.00 diff=3167.02
+OPM_MISMATCH company=HEROMOTOCO year=2023-03 computed=88.00 reported=4099.00 diff=4011.00
+OPM_MISMATCH company=HEROMOTOCO year=2024-03 computed=86.15 reported=5235.00 diff=5148.85
+OPM_MISMATCH company=HINDALCO year=2013-03 computed=90.40 reported=7699.00 diff=7608.60
+OPM_MISMATCH company=HINDALCO year=2014-03 computed=90.85 reported=8024.00 diff=7933.15
+OPM_MISMATCH company=HINDALCO year=2015-03 computed=91.52 reported=8844.00 diff=8752.48
+OPM_MISMATCH company=HINDALCO year=2016-03 computed=92.12 reported=7778.00 diff=7685.88
+OPM_MISMATCH company=HINDALCO year=2017-03 computed=87.71 reported=12317.00 diff=12229.29
+OPM_MISMATCH company=HINDALCO year=2018-03 computed=88.11 reported=13695.00 diff=13606.89
+OPM_MISMATCH company=HINDALCO year=2019-03 computed=88.12 reported=15511.00 diff=15422.88
+OPM_MISMATCH company=HINDALCO year=2020-03 computed=87.89 reported=14306.00 diff=14218.11
+OPM_MISMATCH company=HINDALCO year=2021-03 computed=86.70 reported=17559.00 diff=17472.30
+OPM_MISMATCH company=HINDALCO year=2022-03 computed=85.47 reported=28347.00 diff=28261.53
+OPM_MISMATCH company=HINDALCO year=2023-03 computed=89.85 reported=22666.00 diff=22576.15
+OPM_MISMATCH company=HINDALCO year=2024-03 computed=88.95 reported=23872.00 diff=23783.05
+OPM_MISMATCH company=HINDUNILVR year=2013-03 computed=84.37 reported=4220.00 diff=4135.63
+OPM_MISMATCH company=HINDUNILVR year=2014-03 computed=83.72 reported=4759.00 diff=4675.28
+OPM_MISMATCH company=HINDUNILVR year=2015-03 computed=83.07 reported=5412.00 diff=5328.93
+OPM_MISMATCH company=HINDUNILVR year=2016-03 computed=81.64 reported=5910.00 diff=5828.36
+OPM_MISMATCH company=HINDUNILVR year=2017-03 computed=80.92 reported=6328.00 diff=6247.08
+OPM_MISMATCH company=HINDUNILVR year=2018-03 computed=78.90 reported=7499.00 diff=7420.10
+OPM_MISMATCH company=HINDUNILVR year=2019-03 computed=77.41 reported=8880.00 diff=8802.59
+OPM_MISMATCH company=HINDUNILVR year=2020-03 computed=75.21 reported=9861.00 diff=9785.79
+OPM_MISMATCH company=HINDUNILVR year=2021-03 computed=75.28 reported=11626.00 diff=11550.72
+OPM_MISMATCH company=HINDUNILVR year=2022-03 computed=75.49 reported=12857.00 diff=12781.51
+OPM_MISMATCH company=HINDUNILVR year=2023-03 computed=76.65 reported=14147.00 diff=14070.35
+OPM_MISMATCH company=HINDUNILVR year=2024-03 computed=76.32 reported=14659.00 diff=14582.68
+OPM_MISMATCH company=ICICIBANK year=2013-03 computed=70.59 reported=-15085.00 diff=15155.59
+OPM_MISMATCH company=ICICIBANK year=2014-03 computed=66.40 reported=-13084.00 diff=13150.40
+OPM_MISMATCH company=ICICIBANK year=2015-03 computed=70.53 reported=-16120.00 diff=16190.53
+OPM_MISMATCH company=ICICIBANK year=2016-03 computed=88.12 reported=-26955.00 diff=27043.12
+OPM_MISMATCH company=ICICIBANK year=2017-03 computed=104.76 reported=-37737.00 diff=37841.76
+OPM_MISMATCH company=ICICIBANK year=2018-03 computed=117.12 reported=-44906.00 diff=45023.12
+OPM_MISMATCH company=ICICIBANK year=2019-03 computed=116.38 reported=-50971.00 diff=51087.38
+OPM_MISMATCH company=ICICIBANK year=2020-03 computed=100.62 reported=-45190.00 diff=45290.62
+OPM_MISMATCH company=ICICIBANK year=2021-03 computed=102.41 reported=-44805.00 diff=44907.41
+OPM_MISMATCH company=ICICIBANK year=2022-03 computed=84.69 reported=-26558.00 diff=26642.69
+OPM_MISMATCH company=ICICIBANK year=2023-03 computed=72.57 reported=-17341.00 diff=17413.57
+OPM_MISMATCH company=ICICIBANK year=2024-03 computed=62.41 reported=-14152.00 diff=14214.41
+OPM_MISMATCH company=ICICIGI year=2013-03 computed=104.46 reported=-178.00 diff=282.46
+OPM_MISMATCH company=ICICIGI year=2014-03 computed=105.19 reported=-225.00 diff=330.19
+OPM_MISMATCH company=ICICIGI year=2015-03 computed=105.24 reported=-221.00 diff=326.24
+OPM_MISMATCH company=ICICIGI year=2016-03 computed=87.34 reported=764.00 diff=676.66
+OPM_MISMATCH company=ICICIGI year=2017-03 computed=87.78 reported=919.00 diff=831.22
+OPM_MISMATCH company=ICICIGI year=2018-03 computed=103.79 reported=-262.00 diff=365.79
+OPM_MISMATCH company=ICICIGI year=2019-03 computed=85.05 reported=1669.00 diff=1583.95
+OPM_MISMATCH company=ICICIGI year=2020-03 computed=84.61 reported=1772.00 diff=1687.39
+OPM_MISMATCH company=ICICIGI year=2021-03 computed=82.97 reported=2072.00 diff=1989.03
+OPM_MISMATCH company=ICICIGI year=2022-03 computed=93.66 reported=1016.00 diff=922.34
+OPM_MISMATCH company=ICICIGI year=2023-03 computed=92.93 reported=1264.00 diff=1171.07
+OPM_MISMATCH company=ICICIGI year=2024-03 computed=87.42 reported=2577.00 diff=2489.58
+OPM_MISMATCH company=ICICIPRULI year=2013-03 computed=96.28 reported=745.00 diff=648.72
+OPM_MISMATCH company=ICICIPRULI year=2014-03 computed=93.13 reported=1504.00 diff=1410.87
+OPM_MISMATCH company=ICICIPRULI year=2015-03 computed=95.20 reported=1655.00 diff=1559.80
+OPM_MISMATCH company=ICICIPRULI year=2016-03 computed=91.17 reported=1842.00 diff=1750.83
+OPM_MISMATCH company=ICICIPRULI year=2017-03 computed=95.22 reported=1806.00 diff=1710.78
+OPM_MISMATCH company=ICICIPRULI year=2018-03 computed=95.44 reported=1771.00 diff=1675.56
+OPM_MISMATCH company=ICICIPRULI year=2019-03 computed=98.70 reported=541.00 diff=442.30
+OPM_MISMATCH company=ICICIPRULI year=2020-03 computed=101.52 reported=-319.00 diff=420.52
+OPM_MISMATCH company=ICICIPRULI year=2021-03 computed=100.47 reported=-390.00 diff=490.47
+OPM_MISMATCH company=ICICIPRULI year=2022-03 computed=103.40 reported=-2163.00 diff=2266.40
+OPM_MISMATCH company=ICICIPRULI year=2023-03 computed=103.48 reported=-1757.00 diff=1860.48
+OPM_MISMATCH company=ICICIPRULI year=2024-03 computed=102.03 reported=-1829.00 diff=1931.03
+OPM_MISMATCH company=INDIGO year=2013-03 computed=90.71 reported=855.00 diff=764.29
+OPM_MISMATCH company=INDIGO year=2014-03 computed=96.11 reported=433.00 diff=336.89
+OPM_MISMATCH company=INDIGO year=2015-03 computed=86.33 reported=1904.00 diff=1817.67
+OPM_MISMATCH company=INDIGO year=2016-03 computed=80.40 reported=3164.00 diff=3083.60
+OPM_MISMATCH company=INDIGO year=2017-03 computed=88.06 reported=2219.00 diff=2130.94
+OPM_MISMATCH company=INDIGO year=2018-03 computed=86.84 reported=3030.00 diff=2943.16
+OPM_MISMATCH company=INDIGO year=2019-03 computed=100.53 reported=-151.00 diff=251.53
+OPM_MISMATCH company=INDIGO year=2020-03 computed=88.62 reported=4069.00 diff=3980.38
+OPM_MISMATCH company=INDIGO year=2021-03 computed=99.98 reported=2.00 diff=97.98
+OPM_MISMATCH company=INDIGO year=2022-03 computed=97.85 reported=558.00 diff=460.15
+OPM_MISMATCH company=INDIGO year=2023-03 computed=88.02 reported=6521.00 diff=6432.98
+OPM_MISMATCH company=INDIGO year=2024-03 computed=76.30 reported=16331.00 diff=16254.70
+OPM_MISMATCH company=INDUSINDBK year=2013-03 computed=27.88 reported=286.00 diff=258.12
+OPM_MISMATCH company=INDUSINDBK year=2014-03 computed=30.95 reported=335.00 diff=304.05
+OPM_MISMATCH company=INDUSINDBK year=2015-03 computed=32.33 reported=288.00 diff=255.67
+OPM_MISMATCH company=INDUSINDBK year=2016-03 computed=35.28 reported=329.00 diff=293.72
+OPM_MISMATCH company=INDUSINDBK year=2017-03 computed=39.46 reported=379.00 diff=339.54
+OPM_MISMATCH company=INDUSINDBK year=2018-03 computed=37.93 reported=942.00 diff=904.07
+OPM_MISMATCH company=INDUSINDBK year=2019-03 computed=41.70 reported=-437.00 diff=478.70
+OPM_MISMATCH company=INDUSINDBK year=2020-03 computed=43.81 reported=-553.00 diff=596.81
+OPM_MISMATCH company=INDUSINDBK year=2021-03 computed=55.16 reported=-2469.00 diff=2524.16
+OPM_MISMATCH company=INDUSINDBK year=2022-03 computed=51.39 reported=-839.00 diff=890.39
+OPM_MISMATCH company=INDUSINDBK year=2023-03 computed=42.69 reported=2067.00 diff=2024.31
+OPM_MISMATCH company=INDUSINDBK year=2024-03 computed=38.55 reported=2978.00 diff=2939.45
+OPM_MISMATCH company=JIOFIN year=2023-03 computed=86.67 reported=88.00 diff=1.33
+OPM_MISMATCH company=KOTAKBANK year=2013-03 computed=60.92 reported=-1789.00 diff=1849.92
+OPM_MISMATCH company=KOTAKBANK year=2014-03 computed=58.84 reported=-1379.00 diff=1437.84
+OPM_MISMATCH company=KOTAKBANK year=2015-03 computed=72.96 reported=-3366.00 diff=3438.96
+OPM_MISMATCH company=KOTAKBANK year=2016-03 computed=56.57 reported=-2263.00 diff=2319.57
+OPM_MISMATCH company=KOTAKBANK year=2017-03 computed=66.44 reported=-3965.00 diff=4031.44
+OPM_MISMATCH company=KOTAKBANK year=2018-03 computed=66.87 reported=-4141.00 diff=4207.87
+OPM_MISMATCH company=KOTAKBANK year=2019-03 computed=66.23 reported=-5114.00 diff=5180.23
+OPM_MISMATCH company=KOTAKBANK year=2020-03 computed=67.45 reported=-5005.00 diff=5072.45
+OPM_MISMATCH company=KOTAKBANK year=2021-03 computed=90.83 reported=-9958.00 diff=10048.83
+OPM_MISMATCH company=KOTAKBANK year=2022-03 computed=90.98 reported=-8512.00 diff=8602.98
+OPM_MISMATCH company=KOTAKBANK year=2023-03 computed=79.44 reported=-5746.00 diff=5825.44
+OPM_MISMATCH company=KOTAKBANK year=2024-03 computed=83.67 reported=-13382.00 diff=13465.67
+OPM_MISMATCH company=SUNPHARMA year=2024-03 computed=26.84 reported=28.00 diff=1.16

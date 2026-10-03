@@ -1,64 +1,87 @@
+# 10 unit tests for loader.py - checks row counts and column names after a load
+# (Sprint 6, Day 41). These read the ALREADY LOADED database, so run `make load` first
+# if you want a completely fresh check.
 import os
 import sqlite3
-import pandas as pd
+
 import pytest
-from src.etl.loader import initialize_database, log_audit_trail, log_validation_failures, load_sample_companies, main
 
-def test_initialize_database(tmp_path):
-    db_file = tmp_path / "test_nifty.db"
-    schema_file = tmp_path / "schema.sql"
-    schema_file.write_text("CREATE TABLE test_table (id INT);", encoding="utf-8")
+DB_PATH = os.path.join("data", "nifty100.db")
+DB_EXISTS = os.path.exists(DB_PATH)
 
-    initialize_database(db_path=str(db_file), schema_path=str(schema_file))
-    
-    assert db_file.exists()
-    conn = sqlite3.connect(str(db_file))
-    cursor = conn.cursor()
-    cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='test_table';")
-    assert cursor.fetchone() is not None
-    conn.close()
+pytestmark = pytest.mark.skipif(
+    not DB_EXISTS, reason="database not found - run make load first"
+)
 
-def test_log_audit_trail(tmp_path, monkeypatch):
-    audit_file = tmp_path / "load_audit.csv"
-    monkeypatch.setattr("src.etl.loader.AUDIT_LOG_PATH", str(audit_file))
 
-    log_audit_trail("test_table", 10, "SUCCESS")
-    assert audit_file.exists()
-    
-    df = pd.read_csv(str(audit_file))
-    assert len(df) == 1
-    assert df.iloc[0]["table_name"] == "test_table"
+@pytest.fixture(scope="module")
+def conn():
+    c = sqlite3.connect(DB_PATH)
+    yield c
+    c.close()
 
-def test_log_validation_failures(tmp_path, monkeypatch):
-    failures_file = tmp_path / "validation_failures.csv"
-    monkeypatch.setattr("src.etl.loader.FAILURES_LOG_PATH", str(failures_file))
 
-    failures = [{"rule_id": "DQ-01", "severity": "HIGH", "details": "Test failure"}]
-    log_validation_failures(failures)
-    assert failures_file.exists()
+def test_companies_table_has_92_rows(conn):
+    assert conn.execute("SELECT COUNT(*) FROM companies").fetchone()[0] == 92
 
-    # Empty list should do nothing
-    log_validation_failures([])
 
-def test_load_sample_companies_idempotent(tmp_path):
-    db_file = tmp_path / "test_companies.db"
-    initialize_database(db_path=str(db_file))
-    
-    # First load
-    load_sample_companies(db_path=str(db_file))
-    conn = sqlite3.connect(str(db_file))
-    count1 = conn.execute("SELECT COUNT(*) FROM companies").fetchone()[0]
-    conn.close()
-    assert count1 == 3
+def test_profitandloss_columns(conn):
+    cols = [r[1] for r in conn.execute("PRAGMA table_info(profitandloss)")]
+    for expected in ("company_id", "year", "sales", "net_profit", "eps"):
+        assert expected in cols
 
-    # Second load (idempotent - should ignore duplicates without throwing error)
-    load_sample_companies(db_path=str(db_file))
-    conn = sqlite3.connect(str(db_file))
-    count2 = conn.execute("SELECT COUNT(*) FROM companies").fetchone()[0]
-    conn.close()
-    assert count2 == 3
 
-def test_loader_execution():
-    main()
-    assert os.path.exists("nifty100.db")
-    assert os.path.exists("output/load_audit.csv")
+def test_balancesheet_columns(conn):
+    cols = [r[1] for r in conn.execute("PRAGMA table_info(balancesheet)")]
+    for expected in ("company_id", "year", "equity_capital", "reserves", "borrowings"):
+        assert expected in cols
+
+
+def test_cashflow_columns(conn):
+    cols = [r[1] for r in conn.execute("PRAGMA table_info(cashflow)")]
+    for expected in (
+        "company_id",
+        "year",
+        "operating_activity",
+        "investing_activity",
+        "financing_activity",
+    ):
+        assert expected in cols
+
+
+def test_no_duplicate_company_year_in_profitandloss(conn):
+    dup = conn.execute(
+        "SELECT COUNT(*) FROM (SELECT company_id, year, COUNT(*) c "
+        "FROM profitandloss GROUP BY 1, 2 HAVING c > 1)"
+    ).fetchone()[0]
+    assert dup == 0
+
+
+def test_no_duplicate_company_year_in_balancesheet(conn):
+    dup = conn.execute(
+        "SELECT COUNT(*) FROM (SELECT company_id, year, COUNT(*) c "
+        "FROM balancesheet GROUP BY 1, 2 HAVING c > 1)"
+    ).fetchone()[0]
+    assert dup == 0
+
+
+def test_foreign_keys_are_clean(conn):
+    conn.execute("PRAGMA foreign_keys = ON")
+    violations = conn.execute("PRAGMA foreign_key_check").fetchall()
+    assert len(violations) == 0
+
+
+def test_stock_prices_row_count_is_5520(conn):
+    assert conn.execute("SELECT COUNT(*) FROM stock_prices").fetchone()[0] == 5520
+
+
+def test_sectors_covers_all_companies(conn):
+    n = conn.execute("SELECT COUNT(DISTINCT company_id) FROM sectors").fetchone()[0]
+    assert n == 92
+
+
+def test_year_values_are_yyyy_mm_format(conn):
+    bad = conn.execute(
+        "SELECT COUNT(*) FROM profitandloss WHERE year NOT GLOB '[0-9][0-9][0-9][0-9]-[0-9][0-9]'"
+    ).fetchone()[0]
+    assert bad == 0

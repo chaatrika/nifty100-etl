@@ -1,0 +1,93 @@
+company_id,cluster_id,cluster_name,distance_from_centroid
+ABB,0,Value Cyclicals,0.922
+ADANIENSOL,0,Value Cyclicals,1.326
+ADANIENT,0,Value Cyclicals,1.426
+ADANIGREEN,3,Distressed or Turnaround,2.511
+ADANIPORTS,1,Emerging Growth,1.374
+ADANIPOWER,0,Value Cyclicals,1.089
+AMBUJACEM,0,Value Cyclicals,1.012
+APOLLOHOSP,0,Value Cyclicals,0.53
+ASIANPAINT,0,Value Cyclicals,0.359
+ATGL,0,Value Cyclicals,1.347
+AXISBANK,3,Distressed or Turnaround,0.897
+BAJAJ-AUTO,0,Value Cyclicals,0.624
+BAJAJFINSV,3,Distressed or Turnaround,1.025
+BAJAJHLDNG,1,Emerging Growth,2.442
+BAJFINANCE,3,Distressed or Turnaround,1.603
+BANKBARODA,3,Distressed or Turnaround,1.803
+BEL,2,High-Quality Compounders,0.761
+BHARTIARTL,1,Emerging Growth,1.28
+BHEL,0,Value Cyclicals,2.434
+BOSCHLTD,0,Value Cyclicals,0.964
+BPCL,0,Value Cyclicals,0.53
+BRITANNIA,0,Value Cyclicals,1.567
+CANBK,3,Distressed or Turnaround,2.704
+CHOLAFIN,3,Distressed or Turnaround,0.922
+CIPLA,4,Defensive Dividend Payers,0.0
+COALINDIA,1,Emerging Growth,1.126
+DABUR,0,Value Cyclicals,0.89
+DIVISLAB,0,Value Cyclicals,0.741
+DLF,0,Value Cyclicals,2.452
+DMART,0,Value Cyclicals,1.333
+DRREDDY,0,Value Cyclicals,1.253
+EICHERMOT,0,Value Cyclicals,0.514
+GAIL,0,Value Cyclicals,0.353
+GODREJCP,0,Value Cyclicals,0.691
+GRASIM,0,Value Cyclicals,0.91
+HAL,2,High-Quality Compounders,0.761
+HAVELLS,0,Value Cyclicals,0.934
+HCLTECH,0,Value Cyclicals,0.451
+HDFCBANK,3,Distressed or Turnaround,0.59
+HDFCLIFE,1,Emerging Growth,1.349
+HEROMOTOCO,1,Emerging Growth,1.709
+HINDALCO,1,Emerging Growth,0.614
+HINDUNILVR,1,Emerging Growth,0.732
+ICICIBANK,3,Distressed or Turnaround,0.576
+ICICIGI,1,Emerging Growth,0.736
+ICICIPRULI,1,Emerging Growth,2.264
+INDIGO,1,Emerging Growth,2.413
+INDUSINDBK,3,Distressed or Turnaround,0.662
+INFY,0,Value Cyclicals,0.378
+IOC,0,Value Cyclicals,0.581
+IRCTC,0,Value Cyclicals,1.325
+IRFC,3,Distressed or Turnaround,1.849
+ITC,0,Value Cyclicals,0.885
+JINDALSTEL,0,Value Cyclicals,1.364
+JIOFIN,1,Emerging Growth,0.837
+JSWENERGY,0,Value Cyclicals,1.396
+JSWSTEEL,0,Value Cyclicals,0.625
+KOTAKBANK,1,Emerging Growth,1.349
+LICI,0,Value Cyclicals,2.086
+LODHA,0,Value Cyclicals,2.113
+LT,0,Value Cyclicals,0.908
+LTIM,0,Value Cyclicals,2.623
+M&M,0,Value Cyclicals,0.839
+MARUTI,0,Value Cyclicals,0.341
+MOTHERSON,0,Value Cyclicals,0.636
+NAUKRI,0,Value Cyclicals,0.876
+NESTLEIND,0,Value Cyclicals,0.574
+NHPC,0,Value Cyclicals,2.012
+NTPC,0,Value Cyclicals,0.476
+ONGC,0,Value Cyclicals,0.602
+PFC,3,Distressed or Turnaround,1.28
+PIDILITIND,0,Value Cyclicals,0.447
+PNB,3,Distressed or Turnaround,1.373
+POWERGRID,1,Emerging Growth,1.519
+RECLTD,3,Distressed or Turnaround,2.027
+RELIANCE,0,Value Cyclicals,0.247
+SBILIFE,0,Value Cyclicals,2.008
+SBIN,0,Value Cyclicals,1.93
+SHREECEM,0,Value Cyclicals,0.292
+SHRIRAMFIN,3,Distressed or Turnaround,1.387
+SIEMENS,0,Value Cyclicals,1.382
+SUNPHARMA,0,Value Cyclicals,1.081
+TATACONSUM,0,Value Cyclicals,1.717
+TATAMOTORS,0,Value Cyclicals,0.59
+TATAPOWER,0,Value Cyclicals,0.845
+TATASTEEL,0,Value Cyclicals,0.622
+TCS,0,Value Cyclicals,0.35
+TECHM,0,Value Cyclicals,0.617
+TITAN,0,Value Cyclicals,1.488
+TORNTPHARM,0,Value Cyclicals,0.754
+TRENT,0,Value Cyclicals,3.415
+TVSMOTOR,0,Value Cyclicals,1.214

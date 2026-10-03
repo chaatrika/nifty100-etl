@@ -1,0 +1,2705 @@
+company_id,year,field,issue,severity
+ADANIPORTS,2013-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2014-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2015-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2016-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2017-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2018-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2019-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2020-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2021-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2022-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2023-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2024-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2013-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2014-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2015-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2016-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2017-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2018-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2019-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2020-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2021-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2022-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2023-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,2024-03,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ADANIPORTS,,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+AMBUJACEM,,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+AMBUJACEM,,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+HCLTECH,,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+HCLTECH,,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+SHREECEM,,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+SHREECEM,,"profitandloss.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2013-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2014-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2015-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2016-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2017-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2018-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2019-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2020-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2021-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2022-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2023-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2024-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2024-09,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2013-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2014-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2015-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2016-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2017-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2018-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2019-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2020-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2021-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2022-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2023-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2024-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ASIANPAINT,2024-09,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2013-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2014-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2015-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2016-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2017-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2018-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2019-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2020-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2021-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2022-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2023-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2024-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2013-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2014-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2015-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2016-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2017-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2018-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2019-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2020-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2021-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2022-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2023-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2024-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2013-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2014-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2015-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2016-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2017-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2018-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2019-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2020-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2021-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2022-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2023-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2024-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2013-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2014-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2015-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2016-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2017-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2018-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2019-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2020-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2021-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2022-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2023-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2024-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2013-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2014-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2015-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2016-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2017-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2018-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2019-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2020-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2021-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2022-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2023-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+PNB,2024-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2013-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2014-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2015-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2016-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2017-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2018-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2019-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2020-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2021-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2022-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2023-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2024-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2024-09,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2013-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2014-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2015-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2016-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2017-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2018-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2019-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2020-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2021-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2022-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2023-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2024-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+POWERGRID,2024-09,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2013-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2014-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2015-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2016-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2017-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2018-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2019-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2020-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2021-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2022-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2023-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2024-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2024-09,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2013-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2014-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2015-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2016-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2017-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2018-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2019-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2020-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2021-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2022-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2023-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2024-03,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TECHM,2024-09,"balancesheet.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2013-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2014-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2015-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2016-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2017-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2018-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2019-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2020-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2021-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2022-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2023-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2024-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2014-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2015-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2016-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2017-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2018-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2019-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2020-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2021-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2022-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2023-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2024-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2014-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2015-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2016-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2017-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2018-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2019-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2020-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2021-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2022-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2023-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ABB,2024-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2013-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2014-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2015-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2016-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2017-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2018-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2019-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2020-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2021-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2022-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2023-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2024-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2013-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2014-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2015-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2016-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2017-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2018-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2019-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2020-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2021-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2022-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2023-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+BAJAJ-AUTO,2024-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2013-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2014-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2015-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2016-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2017-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2018-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2019-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2020-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2021-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2022-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2023-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+TCS,2024-03,"cashflow.(company_id,year)","Duplicate (company_id, year) pair",CRITICAL
+ULTRACEMCO,2013-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2014-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2015-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2016-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2017-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2018-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2019-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2020-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2021-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2022-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2023-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2024-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2013-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2014-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2015-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2016-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2017-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2018-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2019-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2020-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2021-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2022-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2023-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2024-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2013-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2014-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2015-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2016-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2017-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2018-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2019-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2020-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2021-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2022-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2023-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2024-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2012-12,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2013-12,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2014-12,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2015-12,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2016-12,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2017-12,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2018-12,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2019-12,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2020-12,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2021-12,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2022-12,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2023-12,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2013-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2014-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2015-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2016-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2017-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2018-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2019-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2020-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2021-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2022-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2023-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2024-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2013-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2014-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2015-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2016-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2017-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2018-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2019-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2020-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2021-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2022-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2023-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2024-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,2018-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,2019-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,2020-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,2021-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,2022-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,2023-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,2024-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2013-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2014-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2015-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2016-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2017-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2018-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2019-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2020-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2021-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2022-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2023-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2024-03,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,,profitandloss.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2013-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2014-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2015-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2016-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2017-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2018-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2019-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2020-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2021-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2022-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2023-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2024-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,2018-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,2019-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,2020-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,2021-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,2022-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,2023-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,2024-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2013-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2014-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2015-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2016-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2017-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2018-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2019-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2020-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2021-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2022-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2023-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2024-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2013-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2014-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2015-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2016-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2017-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2018-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2019-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2020-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2021-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2022-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2023-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2024-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2013-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2014-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2015-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2016-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2017-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2018-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2019-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2020-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2021-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2022-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2023-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2024-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2013-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2014-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2015-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2016-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2017-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2018-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2019-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2020-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2021-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2022-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2023-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2024-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2013-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2014-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2015-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2016-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2017-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2018-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2019-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2020-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2021-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2022-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2023-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2024-03,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2024-09,balancesheet.company_id,Orphan row — company_id not in companies.id,CRITICAL
+AGTL,2018-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+AGTL,2019-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+AGTL,2020-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+AGTL,2021-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+AGTL,2022-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+AGTL,2023-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+AGTL,2024-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2013-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2014-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2015-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2016-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2017-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2018-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2019-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2020-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2021-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2022-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2023-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,2024-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2013-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2014-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2015-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2016-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2017-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2018-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2019-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2020-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2021-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2022-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2023-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,2024-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2013-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2014-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2015-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2016-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2017-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2018-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2019-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2020-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2021-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2022-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2023-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,2024-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2012-12,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2013-12,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2014-12,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2015-12,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2016-12,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2017-12,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2018-12,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2019-12,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2020-12,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2021-12,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2022-12,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,2023-12,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2013-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2014-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2015-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2016-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2017-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2018-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2019-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2020-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2021-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2022-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2023-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,2024-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2013-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2014-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2015-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2016-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2017-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2018-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2019-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2020-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2021-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2022-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2023-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,2024-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,2020-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,2021-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,2022-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,2023-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,2024-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2013-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2014-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2015-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2016-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2017-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2018-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2019-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2020-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2021-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2022-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2023-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,2024-03,cashflow.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ULTRACEMCO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNIONBANK,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+UNITDSPR,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VBL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+VEDL,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZOMATO,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ZYDUSLIFE,,documents.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,analysis.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,analysis.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,analysis.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,analysis.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,prosandcons.company_id,Orphan row — company_id not in companies.id,CRITICAL
+WIPRO,,prosandcons.company_id,Orphan row — company_id not in companies.id,CRITICAL
+ADANIENSOL,2024-03,opm_percentage,"OPM mismatch: reported=30.0, computed=34.39",WARNING
+AXISBANK,2013-03,opm_percentage,"OPM mismatch: reported=1353.0, computed=30.58",WARNING
+AXISBANK,2014-03,opm_percentage,"OPM mismatch: reported=2307.0, computed=31.47",WARNING
+AXISBANK,2015-03,opm_percentage,"OPM mismatch: reported=3097.0, computed=31.36",WARNING
+AXISBANK,2016-03,opm_percentage,"OPM mismatch: reported=3466.0, computed=32.61",WARNING
+AXISBANK,2017-03,opm_percentage,"OPM mismatch: reported=-5715.0, computed=53.45",WARNING
+AXISBANK,2018-03,opm_percentage,"OPM mismatch: reported=-10277.0, computed=63.12",WARNING
+AXISBANK,2019-03,opm_percentage,"OPM mismatch: reported=-5447.0, computed=49.39",WARNING
+AXISBANK,2020-03,opm_percentage,"OPM mismatch: reported=-9859.0, computed=55.98",WARNING
+AXISBANK,2021-03,opm_percentage,"OPM mismatch: reported=-2510.0, computed=50.12",WARNING
+AXISBANK,2022-03,opm_percentage,"OPM mismatch: reported=3170.0, computed=44.47",WARNING
+AXISBANK,2023-03,opm_percentage,"OPM mismatch: reported=13857.0, computed=34.16",WARNING
+AXISBANK,2024-03,opm_percentage,"OPM mismatch: reported=11952.0, computed=34.69",WARNING
+AXISBANK,,opm_percentage,"OPM mismatch: reported=9061.0, computed=36.94",WARNING
+BAJFINANCE,2015-03,opm_percentage,"OPM mismatch: reported=1367.0, computed=32.49",WARNING
+BAJFINANCE,2016-03,opm_percentage,"OPM mismatch: reported=1986.0, computed=32.25",WARNING
+BAJFINANCE,2017-03,opm_percentage,"OPM mismatch: reported=2867.0, computed=32.60",WARNING
+BAJFINANCE,2018-03,opm_percentage,"OPM mismatch: reported=3935.0, computed=32.28",WARNING
+BAJFINANCE,2019-03,opm_percentage,"OPM mismatch: reported=6310.0, computed=29.50",WARNING
+BAJFINANCE,2020-03,opm_percentage,"OPM mismatch: reported=7608.0, computed=34.73",WARNING
+BAJFINANCE,2021-03,opm_percentage,"OPM mismatch: reported=6314.0, computed=40.64",WARNING
+BAJFINANCE,2022-03,opm_percentage,"OPM mismatch: reported=9906.0, computed=37.55",WARNING
+BAJFINANCE,2023-03,opm_percentage,"OPM mismatch: reported=16018.0, computed=30.65",WARNING
+BAJFINANCE,2024-03,opm_percentage,"OPM mismatch: reported=19987.0, computed=29.29",WARNING
+BAJFINANCE,,opm_percentage,"OPM mismatch: reported=21417.0, computed=30.42",WARNING
+BANKBARODA,2013-03,opm_percentage,"OPM mismatch: reported=1006.0, computed=30.05",WARNING
+BANKBARODA,2014-03,opm_percentage,"OPM mismatch: reported=809.0, computed=29.78",WARNING
+BANKBARODA,2015-03,opm_percentage,"OPM mismatch: reported=902.0, computed=29.98",WARNING
+BANKBARODA,2016-03,opm_percentage,"OPM mismatch: reported=-11700.0, computed=55.44",WARNING
+BANKBARODA,2017-03,opm_percentage,"OPM mismatch: reported=-4372.0, computed=43.28",WARNING
+BANKBARODA,2018-03,opm_percentage,"OPM mismatch: reported=-9197.0, computed=56.65",WARNING
+BANKBARODA,2019-03,opm_percentage,"OPM mismatch: reported=-5414.0, computed=48.79",WARNING
+BANKBARODA,2020-03,opm_percentage,"OPM mismatch: reported=-11728.0, computed=51.44",WARNING
+BANKBARODA,2021-03,opm_percentage,"OPM mismatch: reported=-6957.0, computed=51.23",WARNING
+BANKBARODA,2022-03,opm_percentage,"OPM mismatch: reported=-2948.0, computed=51.12",WARNING
+BANKBARODA,2023-03,opm_percentage,"OPM mismatch: reported=6329.0, computed=40.45",WARNING
+BANKBARODA,2024-03,opm_percentage,"OPM mismatch: reported=4102.0, computed=37.49",WARNING
+BANKBARODA,,opm_percentage,"OPM mismatch: reported=3526.0, computed=37.42",WARNING
+CANBK,2013-03,opm_percentage,"OPM mismatch: reported=655.0, computed=21.18",WARNING
+CANBK,2014-03,opm_percentage,"OPM mismatch: reported=-672.0, computed=24.35",WARNING
+CANBK,2015-03,opm_percentage,"OPM mismatch: reported=-621.0, computed=23.51",WARNING
+CANBK,2016-03,opm_percentage,"OPM mismatch: reported=-8008.0, computed=40.38",WARNING
+CANBK,2017-03,opm_percentage,"OPM mismatch: reported=-5775.0, computed=37.85",WARNING
+CANBK,2018-03,opm_percentage,"OPM mismatch: reported=-13350.0, computed=61.87",WARNING
+CANBK,2019-03,opm_percentage,"OPM mismatch: reported=-11590.0, computed=56.73",WARNING
+CANBK,2020-03,opm_percentage,"OPM mismatch: reported=-12867.0, computed=53.88",WARNING
+CANBK,2021-03,opm_percentage,"OPM mismatch: reported=-18367.0, computed=61.83",WARNING
+CANBK,2022-03,opm_percentage,"OPM mismatch: reported=-13657.0, computed=58.39",WARNING
+CANBK,2023-03,opm_percentage,"OPM mismatch: reported=-9877.0, computed=49.80",WARNING
+CANBK,2024-03,opm_percentage,"OPM mismatch: reported=-7745.0, computed=41.75",WARNING
+CANBK,,opm_percentage,"OPM mismatch: reported=-8985.0, computed=40.23",WARNING
+CHOLAFIN,2013-03,opm_percentage,"OPM mismatch: reported=472.0, computed=26.77",WARNING
+CHOLAFIN,2014-03,opm_percentage,"OPM mismatch: reported=578.0, computed=28.42",WARNING
+CHOLAFIN,2015-03,opm_percentage,"OPM mismatch: reported=696.0, computed=28.56",WARNING
+CHOLAFIN,2016-03,opm_percentage,"OPM mismatch: reported=899.0, computed=30.04",WARNING
+CHOLAFIN,2017-03,opm_percentage,"OPM mismatch: reported=1143.0, computed=28.16",WARNING
+CHOLAFIN,2018-03,opm_percentage,"OPM mismatch: reported=1451.0, computed=26.10",WARNING
+CHOLAFIN,2019-03,opm_percentage,"OPM mismatch: reported=1888.0, computed=22.96",WARNING
+CHOLAFIN,2020-03,opm_percentage,"OPM mismatch: reported=1699.0, computed=27.79",WARNING
+CHOLAFIN,2021-03,opm_percentage,"OPM mismatch: reported=2094.0, computed=30.40",WARNING
+CHOLAFIN,2022-03,opm_percentage,"OPM mismatch: reported=2924.0, computed=28.83",WARNING
+CHOLAFIN,2023-03,opm_percentage,"OPM mismatch: reported=3515.0, computed=28.10",WARNING
+CHOLAFIN,2024-03,opm_percentage,"OPM mismatch: reported=4548.0, computed=28.10",WARNING
+CHOLAFIN,,opm_percentage,"OPM mismatch: reported=5175.0, computed=28.67",WARNING
+CIPLA,2013-03,opm_percentage,"OPM mismatch: reported=2214.0, computed=73.26",WARNING
+CIPLA,2014-03,opm_percentage,"OPM mismatch: reported=2147.0, computed=78.90",WARNING
+CIPLA,2015-03,opm_percentage,"OPM mismatch: reported=2163.0, computed=80.94",WARNING
+CIPLA,2016-03,opm_percentage,"OPM mismatch: reported=2480.0, computed=82.02",WARNING
+CIPLA,2017-03,opm_percentage,"OPM mismatch: reported=2496.0, computed=82.66",WARNING
+CIPLA,2018-03,opm_percentage,"OPM mismatch: reported=2826.0, computed=81.35",WARNING
+CIPLA,2019-03,opm_percentage,"OPM mismatch: reported=3097.0, computed=81.07",WARNING
+CIPLA,2020-03,opm_percentage,"OPM mismatch: reported=3206.0, computed=81.29",WARNING
+CIPLA,2021-03,opm_percentage,"OPM mismatch: reported=4252.0, computed=77.80",WARNING
+CIPLA,2022-03,opm_percentage,"OPM mismatch: reported=4553.0, computed=79.08",WARNING
+CIPLA,2023-03,opm_percentage,"OPM mismatch: reported=5027.0, computed=77.91",WARNING
+CIPLA,2024-03,opm_percentage,"OPM mismatch: reported=6291.0, computed=75.59",WARNING
+CIPLA,,opm_percentage,"OPM mismatch: reported=6906.0, computed=74.40",WARNING
+COALINDIA,2013-03,opm_percentage,"OPM mismatch: reported=18087.0, computed=73.52",WARNING
+COALINDIA,2014-03,opm_percentage,"OPM mismatch: reported=17766.0, computed=74.84",WARNING
+COALINDIA,2015-03,opm_percentage,"OPM mismatch: reported=17343.0, computed=76.60",WARNING
+COALINDIA,2016-03,opm_percentage,"OPM mismatch: reported=18714.0, computed=75.96",WARNING
+COALINDIA,2017-03,opm_percentage,"OPM mismatch: reported=12448.0, computed=84.07",WARNING
+COALINDIA,2018-03,opm_percentage,"OPM mismatch: reported=9288.0, computed=89.10",WARNING
+COALINDIA,2019-03,opm_percentage,"OPM mismatch: reported=25007.0, computed=74.89",WARNING
+COALINDIA,2020-03,opm_percentage,"OPM mismatch: reported=21581.0, computed=77.54",WARNING
+COALINDIA,2021-03,opm_percentage,"OPM mismatch: reported=18628.0, computed=79.31",WARNING
+COALINDIA,2022-03,opm_percentage,"OPM mismatch: reported=24721.0, computed=77.47",WARNING
+COALINDIA,2023-03,opm_percentage,"OPM mismatch: reported=44232.0, computed=68.01",WARNING
+COALINDIA,2024-03,opm_percentage,"OPM mismatch: reported=47971.0, computed=66.29",WARNING
+COALINDIA,,opm_percentage,"OPM mismatch: reported=46610.0, computed=66.78",WARNING
+HDFCBANK,2013-03,opm_percentage,"OPM mismatch: reported=3534.0, computed=35.22",WARNING
+HDFCBANK,2014-03,opm_percentage,"OPM mismatch: reported=5602.0, computed=31.74",WARNING
+HDFCBANK,2015-03,opm_percentage,"OPM mismatch: reported=7214.0, computed=31.90",WARNING
+HDFCBANK,2016-03,opm_percentage,"OPM mismatch: reported=9037.0, computed=31.75",WARNING
+HDFCBANK,2017-03,opm_percentage,"OPM mismatch: reported=11374.0, computed=32.56",WARNING
+HDFCBANK,2018-03,opm_percentage,"OPM mismatch: reported=13374.0, computed=34.63",WARNING
+HDFCBANK,2019-03,opm_percentage,"OPM mismatch: reported=16592.0, computed=33.15",WARNING
+HDFCBANK,2020-03,opm_percentage,"OPM mismatch: reported=14593.0, computed=37.20",WARNING
+HDFCBANK,2021-03,opm_percentage,"OPM mismatch: reported=16848.0, computed=40.81",WARNING
+HDFCBANK,2022-03,opm_percentage,"OPM mismatch: reported=20795.0, computed=41.61",WARNING
+HDFCBANK,2023-03,opm_percentage,"OPM mismatch: reported=29932.0, computed=36.92",WARNING
+HDFCBANK,2024-03,opm_percentage,"OPM mismatch: reported=-44685.0, computed=61.41",WARNING
+HDFCBANK,,opm_percentage,"OPM mismatch: reported=-57587.0, computed=62.61",WARNING
+HDFCLIFE,2013-03,opm_percentage,"OPM mismatch: reported=525.0, computed=96.27",WARNING
+HDFCLIFE,2014-03,opm_percentage,"OPM mismatch: reported=605.0, computed=96.48",WARNING
+HDFCLIFE,2015-03,opm_percentage,"OPM mismatch: reported=874.0, computed=96.79",WARNING
+HDFCLIFE,2016-03,opm_percentage,"OPM mismatch: reported=953.0, computed=94.74",WARNING
+HDFCLIFE,2017-03,opm_percentage,"OPM mismatch: reported=972.0, computed=96.83",WARNING
+HDFCLIFE,2018-03,opm_percentage,"OPM mismatch: reported=1074.0, computed=96.67",WARNING
+HDFCLIFE,2019-03,opm_percentage,"OPM mismatch: reported=1215.0, computed=96.87",WARNING
+HDFCLIFE,2020-03,opm_percentage,"OPM mismatch: reported=1141.0, computed=96.12",WARNING
+HDFCLIFE,2021-03,opm_percentage,"OPM mismatch: reported=1235.0, computed=98.27",WARNING
+HDFCLIFE,2022-03,opm_percentage,"OPM mismatch: reported=778.0, computed=98.84",WARNING
+HDFCLIFE,2023-03,opm_percentage,"OPM mismatch: reported=80.0, computed=99.89",WARNING
+HDFCLIFE,2024-03,opm_percentage,"OPM mismatch: reported=531.0, computed=99.48",WARNING
+HDFCLIFE,,opm_percentage,"OPM mismatch: reported=725.0, computed=99.28",WARNING
+HEROMOTOCO,2014-03,opm_percentage,"OPM mismatch: reported=3553.0, computed=85.94",WARNING
+HEROMOTOCO,2015-03,opm_percentage,"OPM mismatch: reported=3520.0, computed=87.22",WARNING
+HEROMOTOCO,2016-03,opm_percentage,"OPM mismatch: reported=4424.0, computed=84.45",WARNING
+HEROMOTOCO,2017-03,opm_percentage,"OPM mismatch: reported=4585.0, computed=83.97",WARNING
+HEROMOTOCO,2018-03,opm_percentage,"OPM mismatch: reported=5334.0, computed=83.57",WARNING
+HEROMOTOCO,2019-03,opm_percentage,"OPM mismatch: reported=5025.0, computed=85.21",WARNING
+HEROMOTOCO,2020-03,opm_percentage,"OPM mismatch: reported=4070.0, computed=86.09",WARNING
+HEROMOTOCO,2021-03,opm_percentage,"OPM mismatch: reported=4058.0, computed=86.90",WARNING
+HEROMOTOCO,2022-03,opm_percentage,"OPM mismatch: reported=3256.0, computed=88.98",WARNING
+HEROMOTOCO,2023-03,opm_percentage,"OPM mismatch: reported=4099.0, computed=88.00",WARNING
+HEROMOTOCO,2024-03,opm_percentage,"OPM mismatch: reported=5235.0, computed=86.15",WARNING
+HEROMOTOCO,,opm_percentage,"OPM mismatch: reported=5561.0, computed=86.13",WARNING
+HINDALCO,2013-03,opm_percentage,"OPM mismatch: reported=7699.0, computed=90.40",WARNING
+HINDALCO,2014-03,opm_percentage,"OPM mismatch: reported=8024.0, computed=90.85",WARNING
+HINDALCO,2015-03,opm_percentage,"OPM mismatch: reported=8844.0, computed=91.52",WARNING
+HINDALCO,2016-03,opm_percentage,"OPM mismatch: reported=7778.0, computed=92.12",WARNING
+HINDALCO,2017-03,opm_percentage,"OPM mismatch: reported=12317.0, computed=87.71",WARNING
+HINDALCO,2018-03,opm_percentage,"OPM mismatch: reported=13695.0, computed=88.11",WARNING
+HINDALCO,2019-03,opm_percentage,"OPM mismatch: reported=15511.0, computed=88.12",WARNING
+HINDALCO,2020-03,opm_percentage,"OPM mismatch: reported=14306.0, computed=87.89",WARNING
+HINDALCO,2021-03,opm_percentage,"OPM mismatch: reported=17559.0, computed=86.70",WARNING
+HINDALCO,2022-03,opm_percentage,"OPM mismatch: reported=28347.0, computed=85.47",WARNING
+HINDALCO,2023-03,opm_percentage,"OPM mismatch: reported=22666.0, computed=89.85",WARNING
+HINDALCO,2024-03,opm_percentage,"OPM mismatch: reported=23872.0, computed=88.95",WARNING
+HINDALCO,,opm_percentage,"OPM mismatch: reported=27931.0, computed=87.53",WARNING
+HINDUNILVR,2013-03,opm_percentage,"OPM mismatch: reported=4220.0, computed=84.37",WARNING
+HINDUNILVR,2014-03,opm_percentage,"OPM mismatch: reported=4759.0, computed=83.72",WARNING
+HINDUNILVR,2015-03,opm_percentage,"OPM mismatch: reported=5412.0, computed=83.07",WARNING
+HINDUNILVR,2016-03,opm_percentage,"OPM mismatch: reported=5910.0, computed=81.64",WARNING
+HINDUNILVR,2017-03,opm_percentage,"OPM mismatch: reported=6328.0, computed=80.92",WARNING
+HINDUNILVR,2018-03,opm_percentage,"OPM mismatch: reported=7499.0, computed=78.90",WARNING
+HINDUNILVR,2019-03,opm_percentage,"OPM mismatch: reported=8880.0, computed=77.41",WARNING
+HINDUNILVR,2020-03,opm_percentage,"OPM mismatch: reported=9861.0, computed=75.21",WARNING
+HINDUNILVR,2021-03,opm_percentage,"OPM mismatch: reported=11626.0, computed=75.28",WARNING
+HINDUNILVR,2022-03,opm_percentage,"OPM mismatch: reported=12857.0, computed=75.49",WARNING
+HINDUNILVR,2023-03,opm_percentage,"OPM mismatch: reported=14147.0, computed=76.65",WARNING
+HINDUNILVR,2024-03,opm_percentage,"OPM mismatch: reported=14659.0, computed=76.32",WARNING
+HINDUNILVR,,opm_percentage,"OPM mismatch: reported=14759.0, computed=76.45",WARNING
+ICICIBANK,2013-03,opm_percentage,"OPM mismatch: reported=-15085.0, computed=70.59",WARNING
+ICICIBANK,2014-03,opm_percentage,"OPM mismatch: reported=-13084.0, computed=66.40",WARNING
+ICICIBANK,2015-03,opm_percentage,"OPM mismatch: reported=-16120.0, computed=70.53",WARNING
+ICICIBANK,2016-03,opm_percentage,"OPM mismatch: reported=-26955.0, computed=88.12",WARNING
+ICICIBANK,2017-03,opm_percentage,"OPM mismatch: reported=-37737.0, computed=104.76",WARNING
+ICICIBANK,2018-03,opm_percentage,"OPM mismatch: reported=-44906.0, computed=117.12",WARNING
+ICICIBANK,2019-03,opm_percentage,"OPM mismatch: reported=-50971.0, computed=116.38",WARNING
+ICICIBANK,2020-03,opm_percentage,"OPM mismatch: reported=-45190.0, computed=100.62",WARNING
+ICICIBANK,2021-03,opm_percentage,"OPM mismatch: reported=-44805.0, computed=102.41",WARNING
+ICICIBANK,2022-03,opm_percentage,"OPM mismatch: reported=-26558.0, computed=84.69",WARNING
+ICICIBANK,2023-03,opm_percentage,"OPM mismatch: reported=-17341.0, computed=72.57",WARNING
+ICICIBANK,2024-03,opm_percentage,"OPM mismatch: reported=-14152.0, computed=62.41",WARNING
+ICICIBANK,,opm_percentage,"OPM mismatch: reported=-31575.0, computed=69.63",WARNING
+ICICIGI,2013-03,opm_percentage,"OPM mismatch: reported=-178.0, computed=104.46",WARNING
+ICICIGI,2014-03,opm_percentage,"OPM mismatch: reported=-225.0, computed=105.19",WARNING
+ICICIGI,2015-03,opm_percentage,"OPM mismatch: reported=-221.0, computed=105.24",WARNING
+ICICIGI,2016-03,opm_percentage,"OPM mismatch: reported=764.0, computed=87.34",WARNING
+ICICIGI,2017-03,opm_percentage,"OPM mismatch: reported=919.0, computed=87.78",WARNING
+ICICIGI,2018-03,opm_percentage,"OPM mismatch: reported=-262.0, computed=103.79",WARNING
+ICICIGI,2019-03,opm_percentage,"OPM mismatch: reported=1669.0, computed=85.05",WARNING
+ICICIGI,2020-03,opm_percentage,"OPM mismatch: reported=1772.0, computed=84.61",WARNING
+ICICIGI,2021-03,opm_percentage,"OPM mismatch: reported=2072.0, computed=82.97",WARNING
+ICICIGI,2022-03,opm_percentage,"OPM mismatch: reported=1016.0, computed=93.66",WARNING
+ICICIGI,2023-03,opm_percentage,"OPM mismatch: reported=1264.0, computed=92.93",WARNING
+ICICIGI,2024-03,opm_percentage,"OPM mismatch: reported=2577.0, computed=87.42",WARNING
+ICICIGI,,opm_percentage,"OPM mismatch: reported=3363.0, computed=85.57",WARNING
+ICICIPRULI,2013-03,opm_percentage,"OPM mismatch: reported=745.0, computed=96.28",WARNING
+ICICIPRULI,2014-03,opm_percentage,"OPM mismatch: reported=1504.0, computed=93.13",WARNING
+ICICIPRULI,2015-03,opm_percentage,"OPM mismatch: reported=1655.0, computed=95.20",WARNING
+ICICIPRULI,2016-03,opm_percentage,"OPM mismatch: reported=1842.0, computed=91.17",WARNING
+ICICIPRULI,2017-03,opm_percentage,"OPM mismatch: reported=1806.0, computed=95.22",WARNING
+ICICIPRULI,2018-03,opm_percentage,"OPM mismatch: reported=1771.0, computed=95.44",WARNING
+ICICIPRULI,2019-03,opm_percentage,"OPM mismatch: reported=541.0, computed=98.70",WARNING
+ICICIPRULI,2020-03,opm_percentage,"OPM mismatch: reported=-319.0, computed=101.52",WARNING
+ICICIPRULI,2021-03,opm_percentage,"OPM mismatch: reported=-390.0, computed=100.47",WARNING
+ICICIPRULI,2022-03,opm_percentage,"OPM mismatch: reported=-2163.0, computed=103.40",WARNING
+ICICIPRULI,2023-03,opm_percentage,"OPM mismatch: reported=-1757.0, computed=103.48",WARNING
+ICICIPRULI,2024-03,opm_percentage,"OPM mismatch: reported=-1829.0, computed=102.03",WARNING
+ICICIPRULI,,opm_percentage,"OPM mismatch: reported=321.0, computed=99.59",WARNING
+INDUSINDBK,2013-03,opm_percentage,"OPM mismatch: reported=286.0, computed=27.88",WARNING
+INDUSINDBK,2014-03,opm_percentage,"OPM mismatch: reported=335.0, computed=30.95",WARNING
+INDUSINDBK,2015-03,opm_percentage,"OPM mismatch: reported=288.0, computed=32.33",WARNING
+INDUSINDBK,2016-03,opm_percentage,"OPM mismatch: reported=329.0, computed=35.28",WARNING
+INDUSINDBK,2017-03,opm_percentage,"OPM mismatch: reported=379.0, computed=39.46",WARNING
+INDUSINDBK,2018-03,opm_percentage,"OPM mismatch: reported=942.0, computed=37.93",WARNING
+INDUSINDBK,2019-03,opm_percentage,"OPM mismatch: reported=-437.0, computed=41.70",WARNING
+INDUSINDBK,2020-03,opm_percentage,"OPM mismatch: reported=-553.0, computed=43.81",WARNING
+INDUSINDBK,2021-03,opm_percentage,"OPM mismatch: reported=-2469.0, computed=55.16",WARNING
+INDUSINDBK,2022-03,opm_percentage,"OPM mismatch: reported=-839.0, computed=51.39",WARNING
+INDUSINDBK,2023-03,opm_percentage,"OPM mismatch: reported=2067.0, computed=42.69",WARNING
+INDUSINDBK,2024-03,opm_percentage,"OPM mismatch: reported=2978.0, computed=38.55",WARNING
+INDUSINDBK,,opm_percentage,"OPM mismatch: reported=1323.0, computed=41.03",WARNING
+JIOFIN,2023-03,opm_percentage,"OPM mismatch: reported=88.0, computed=86.67",WARNING
+KOTAKBANK,2013-03,opm_percentage,"OPM mismatch: reported=-1789.0, computed=60.92",WARNING
+KOTAKBANK,2014-03,opm_percentage,"OPM mismatch: reported=-1379.0, computed=58.84",WARNING
+KOTAKBANK,2015-03,opm_percentage,"OPM mismatch: reported=-3366.0, computed=72.96",WARNING
+KOTAKBANK,2016-03,opm_percentage,"OPM mismatch: reported=-2263.0, computed=56.57",WARNING
+KOTAKBANK,2017-03,opm_percentage,"OPM mismatch: reported=-3965.0, computed=66.44",WARNING
+KOTAKBANK,2018-03,opm_percentage,"OPM mismatch: reported=-4141.0, computed=66.87",WARNING
+KOTAKBANK,2019-03,opm_percentage,"OPM mismatch: reported=-5114.0, computed=66.23",WARNING
+KOTAKBANK,2020-03,opm_percentage,"OPM mismatch: reported=-5005.0, computed=67.45",WARNING
+KOTAKBANK,2021-03,opm_percentage,"OPM mismatch: reported=-9958.0, computed=90.83",WARNING
+KOTAKBANK,2022-03,opm_percentage,"OPM mismatch: reported=-8512.0, computed=90.98",WARNING
+KOTAKBANK,2023-03,opm_percentage,"OPM mismatch: reported=-5746.0, computed=79.44",WARNING
+KOTAKBANK,2024-03,opm_percentage,"OPM mismatch: reported=-13382.0, computed=83.67",WARNING
+KOTAKBANK,,opm_percentage,"OPM mismatch: reported=-14146.0, computed=79.42",WARNING
+SUNPHARMA,2024-03,opm_percentage,"OPM mismatch: reported=28.0, computed=26.84",WARNING
+INDIGO,2013-03,opm_percentage,"OPM mismatch: reported=855.0, computed=90.71",WARNING
+INDIGO,2014-03,opm_percentage,"OPM mismatch: reported=433.0, computed=96.11",WARNING
+INDIGO,2015-03,opm_percentage,"OPM mismatch: reported=1904.0, computed=86.33",WARNING
+INDIGO,2016-03,opm_percentage,"OPM mismatch: reported=3164.0, computed=80.40",WARNING
+INDIGO,2017-03,opm_percentage,"OPM mismatch: reported=2219.0, computed=88.06",WARNING
+INDIGO,2018-03,opm_percentage,"OPM mismatch: reported=3030.0, computed=86.84",WARNING
+INDIGO,2019-03,opm_percentage,"OPM mismatch: reported=-151.0, computed=100.53",WARNING
+INDIGO,2020-03,opm_percentage,"OPM mismatch: reported=4069.0, computed=88.62",WARNING
+INDIGO,2021-03,opm_percentage,"OPM mismatch: reported=2.0, computed=99.98",WARNING
+INDIGO,2022-03,opm_percentage,"OPM mismatch: reported=558.0, computed=97.85",WARNING
+INDIGO,2023-03,opm_percentage,"OPM mismatch: reported=6521.0, computed=88.02",WARNING
+INDIGO,2024-03,opm_percentage,"OPM mismatch: reported=16331.0, computed=76.30",WARNING
+INDIGO,,opm_percentage,"OPM mismatch: reported=15908.0, computed=79.20",WARNING
+ADANIENSOL,2014-03,sales,Non-positive sales: 0,WARNING
+ABB,,profitandloss.year,Unparseable year value: nan,CRITICAL
+ADANIENSOL,,profitandloss.year,Unparseable year value: nan,CRITICAL
+ADANIENT,,profitandloss.year,Unparseable year value: nan,CRITICAL
+ADANIGREEN,,profitandloss.year,Unparseable year value: nan,CRITICAL
+ADANIPORTS,,profitandloss.year,Unparseable year value: nan,CRITICAL
+ADANIPORTS,,profitandloss.year,Unparseable year value: nan,CRITICAL
+ADANIPOWER,,profitandloss.year,Unparseable year value: nan,CRITICAL
+AMBUJACEM,,profitandloss.year,Unparseable year value: nan,CRITICAL
+AMBUJACEM,,profitandloss.year,Unparseable year value: nan,CRITICAL
+APOLLOHOSP,,profitandloss.year,Unparseable year value: nan,CRITICAL
+ASIANPAINT,,profitandloss.year,Unparseable year value: nan,CRITICAL
+ATGL,,profitandloss.year,Unparseable year value: nan,CRITICAL
+BAJAJ-AUTO,,profitandloss.year,Unparseable year value: nan,CRITICAL
+AXISBANK,,profitandloss.year,Unparseable year value: nan,CRITICAL
+BAJAJFINSV,,profitandloss.year,Unparseable year value: nan,CRITICAL
+BAJAJHLDNG,,profitandloss.year,Unparseable year value: nan,CRITICAL
+BAJFINANCE,,profitandloss.year,Unparseable year value: nan,CRITICAL
+BANKBARODA,,profitandloss.year,Unparseable year value: nan,CRITICAL
+BHARTIARTL,,profitandloss.year,Unparseable year value: nan,CRITICAL
+BEL,,profitandloss.year,Unparseable year value: nan,CRITICAL
+BHEL,,profitandloss.year,Unparseable year value: nan,CRITICAL
+BOSCHLTD,,profitandloss.year,Unparseable year value: nan,CRITICAL
+BPCL,,profitandloss.year,Unparseable year value: nan,CRITICAL
+BRITANNIA,,profitandloss.year,Unparseable year value: nan,CRITICAL
+CANBK,,profitandloss.year,Unparseable year value: nan,CRITICAL
+CHOLAFIN,,profitandloss.year,Unparseable year value: nan,CRITICAL
+CIPLA,,profitandloss.year,Unparseable year value: nan,CRITICAL
+COALINDIA,,profitandloss.year,Unparseable year value: nan,CRITICAL
+DABUR,,profitandloss.year,Unparseable year value: nan,CRITICAL
+DIVISLAB,,profitandloss.year,Unparseable year value: nan,CRITICAL
+DLF,,profitandloss.year,Unparseable year value: nan,CRITICAL
+DMART,,profitandloss.year,Unparseable year value: nan,CRITICAL
+DRREDDY,,profitandloss.year,Unparseable year value: nan,CRITICAL
+EICHERMOT,,profitandloss.year,Unparseable year value: nan,CRITICAL
+GAIL,,profitandloss.year,Unparseable year value: nan,CRITICAL
+GODREJCP,,profitandloss.year,Unparseable year value: nan,CRITICAL
+GRASIM,,profitandloss.year,Unparseable year value: nan,CRITICAL
+HAL,,profitandloss.year,Unparseable year value: nan,CRITICAL
+HAVELLS,,profitandloss.year,Unparseable year value: nan,CRITICAL
+HCLTECH,,profitandloss.year,Unparseable year value: nan,CRITICAL
+HCLTECH,,profitandloss.year,Unparseable year value: nan,CRITICAL
+HDFCBANK,,profitandloss.year,Unparseable year value: nan,CRITICAL
+HDFCLIFE,,profitandloss.year,Unparseable year value: nan,CRITICAL
+HEROMOTOCO,,profitandloss.year,Unparseable year value: nan,CRITICAL
+HINDALCO,,profitandloss.year,Unparseable year value: nan,CRITICAL
+HINDUNILVR,,profitandloss.year,Unparseable year value: nan,CRITICAL
+ICICIBANK,,profitandloss.year,Unparseable year value: nan,CRITICAL
+ICICIGI,,profitandloss.year,Unparseable year value: nan,CRITICAL
+ICICIPRULI,,profitandloss.year,Unparseable year value: nan,CRITICAL
+INDUSINDBK,,profitandloss.year,Unparseable year value: nan,CRITICAL
+INFY,,profitandloss.year,Unparseable year value: nan,CRITICAL
+IOC,,profitandloss.year,Unparseable year value: nan,CRITICAL
+IRCTC,,profitandloss.year,Unparseable year value: nan,CRITICAL
+IRFC,,profitandloss.year,Unparseable year value: nan,CRITICAL
+ITC,,profitandloss.year,Unparseable year value: nan,CRITICAL
+JINDALSTEL,,profitandloss.year,Unparseable year value: nan,CRITICAL
+JIOFIN,,profitandloss.year,Unparseable year value: nan,CRITICAL
+JSWENERGY,,profitandloss.year,Unparseable year value: nan,CRITICAL
+JSWSTEEL,,profitandloss.year,Unparseable year value: nan,CRITICAL
+KOTAKBANK,,profitandloss.year,Unparseable year value: nan,CRITICAL
+LICI,,profitandloss.year,Unparseable year value: nan,CRITICAL
+LODHA,,profitandloss.year,Unparseable year value: nan,CRITICAL
+LT,,profitandloss.year,Unparseable year value: nan,CRITICAL
+LTIM,,profitandloss.year,Unparseable year value: nan,CRITICAL
+M&M,,profitandloss.year,Unparseable year value: nan,CRITICAL
+MARUTI,,profitandloss.year,Unparseable year value: nan,CRITICAL
+MOTHERSON,,profitandloss.year,Unparseable year value: nan,CRITICAL
+NAUKRI,,profitandloss.year,Unparseable year value: nan,CRITICAL
+NESTLEIND,,profitandloss.year,Unparseable year value: nan,CRITICAL
+NHPC,,profitandloss.year,Unparseable year value: nan,CRITICAL
+NTPC,,profitandloss.year,Unparseable year value: nan,CRITICAL
+ONGC,,profitandloss.year,Unparseable year value: nan,CRITICAL
+PFC,,profitandloss.year,Unparseable year value: nan,CRITICAL
+PIDILITIND,,profitandloss.year,Unparseable year value: nan,CRITICAL
+PNB,,profitandloss.year,Unparseable year value: nan,CRITICAL
+POWERGRID,,profitandloss.year,Unparseable year value: nan,CRITICAL
+RECLTD,,profitandloss.year,Unparseable year value: nan,CRITICAL
+RELIANCE,,profitandloss.year,Unparseable year value: nan,CRITICAL
+SBILIFE,,profitandloss.year,Unparseable year value: nan,CRITICAL
+SBIN,,profitandloss.year,Unparseable year value: nan,CRITICAL
+SHREECEM,,profitandloss.year,Unparseable year value: nan,CRITICAL
+SHREECEM,,profitandloss.year,Unparseable year value: nan,CRITICAL
+SHRIRAMFIN,,profitandloss.year,Unparseable year value: nan,CRITICAL
+SUNPHARMA,,profitandloss.year,Unparseable year value: nan,CRITICAL
+TATACONSUM,,profitandloss.year,Unparseable year value: nan,CRITICAL
+TATAMOTORS,,profitandloss.year,Unparseable year value: nan,CRITICAL
+TATAPOWER,,profitandloss.year,Unparseable year value: nan,CRITICAL
+TATASTEEL,,profitandloss.year,Unparseable year value: nan,CRITICAL
+TCS,,profitandloss.year,Unparseable year value: nan,CRITICAL
+TECHM,,profitandloss.year,Unparseable year value: nan,CRITICAL
+TITAN,,profitandloss.year,Unparseable year value: nan,CRITICAL
+TORNTPHARM,,profitandloss.year,Unparseable year value: nan,CRITICAL
+TRENT,,profitandloss.year,Unparseable year value: nan,CRITICAL
+TVSMOTOR,,profitandloss.year,Unparseable year value: nan,CRITICAL
+ULTRACEMCO,,profitandloss.year,Unparseable year value: nan,CRITICAL
+UNIONBANK,,profitandloss.year,Unparseable year value: nan,CRITICAL
+UNITDSPR,,profitandloss.year,Unparseable year value: nan,CRITICAL
+VBL,,profitandloss.year,Unparseable year value: nan,CRITICAL
+VEDL,,profitandloss.year,Unparseable year value: nan,CRITICAL
+WIPRO,,profitandloss.year,Unparseable year value: nan,CRITICAL
+ZOMATO,,profitandloss.year,Unparseable year value: nan,CRITICAL
+ZYDUSLIFE,,profitandloss.year,Unparseable year value: nan,CRITICAL
+INDIGO,,profitandloss.year,Unparseable year value: nan,CRITICAL
+ZYDUSLIFE,,balancesheet.year,Unparseable year value: nan,CRITICAL
+ZOMATO,,balancesheet.year,Unparseable year value: nan,CRITICAL
+WIPRO,,balancesheet.year,Unparseable year value: nan,CRITICAL
+VEDL,,balancesheet.year,Unparseable year value: nan,CRITICAL
+UNITDSPR,,balancesheet.year,Unparseable year value: nan,CRITICAL
+TVSMOTOR,2022-03,net_cash_flow,net_cash_flow mismatch vs CFO+CFI+CFF (tol 10 Cr),WARNING
+ADANIENT,2014-03,tax_percentage,Tax rate out of range: -64.0,WARNING
+ADANIGREEN,2017-03,tax_percentage,Tax rate out of range: -75.0,WARNING
+ADANIGREEN,2018-03,tax_percentage,Tax rate out of range: -35.0,WARNING
+ADANIGREEN,2019-03,tax_percentage,Tax rate out of range: -19.0,WARNING
+ADANIPOWER,2014-03,tax_percentage,Tax rate out of range: -79.0,WARNING
+ADANIPOWER,2016-03,tax_percentage,Tax rate out of range: -47.0,WARNING
+ADANIPOWER,2017-03,tax_percentage,Tax rate out of range: -1.0,WARNING
+ADANIPOWER,2023-03,tax_percentage,Tax rate out of range: -40.0,WARNING
+AMBUJACEM,2018-12,tax_percentage,Tax rate out of range: -2.0,WARNING
+APOLLOHOSP,2018-03,tax_percentage,Tax rate out of range: 65.0,WARNING
+AXISBANK,2018-03,tax_percentage,Tax rate out of range: -99.0,WARNING
+AXISBANK,2020-03,tax_percentage,Tax rate out of range: 67.0,WARNING
+BANKBARODA,2016-03,tax_percentage,Tax rate out of range: -19.0,WARNING
+BANKBARODA,2018-03,tax_percentage,Tax rate out of range: -9.0,WARNING
+BANKBARODA,2020-03,tax_percentage,Tax rate out of range: -99.0,WARNING
+BANKBARODA,2021-03,tax_percentage,Tax rate out of range: 77.0,WARNING
+BHARTIARTL,2014-03,tax_percentage,Tax rate out of range: 62.0,WARNING
+BHARTIARTL,2019-03,tax_percentage,Tax rate out of range: -99.0,WARNING
+BHARTIARTL,2020-03,tax_percentage,Tax rate out of range: -28.0,WARNING
+BHARTIARTL,2021-03,tax_percentage,Tax rate out of range: 99.0,WARNING
+BHEL,2016-03,tax_percentage,Tax rate out of range: -39.0,WARNING
+BHEL,2018-03,tax_percentage,Tax rate out of range: 64.0,WARNING
+BHEL,2020-03,tax_percentage,Tax rate out of range: 99.0,WARNING
+BHEL,2021-03,tax_percentage,Tax rate out of range: -25.0,WARNING
+BHEL,2024-03,tax_percentage,Tax rate out of range: -16.0,WARNING
+CANBK,2016-03,tax_percentage,Tax rate out of range: -13.0,WARNING
+CANBK,2018-03,tax_percentage,Tax rate out of range: -36.0,WARNING
+CANBK,2019-03,tax_percentage,Tax rate out of range: -99.0,WARNING
+DLF,2014-03,tax_percentage,Tax rate out of range: -16.0,WARNING
+DLF,2020-03,tax_percentage,Tax rate out of range: 99.0,WARNING
+DRREDDY,2020-03,tax_percentage,Tax rate out of range: -7.0,WARNING
+GODREJCP,2019-03,tax_percentage,Tax rate out of range: -12.0,WARNING
+GODREJCP,2024-03,tax_percentage,Tax rate out of range: 99.0,WARNING
+GRASIM,2020-03,tax_percentage,Tax rate out of range: -1.0,WARNING
+HDFCLIFE,2024-03,tax_percentage,Tax rate out of range: -61.0,WARNING
+HINDALCO,2015-03,tax_percentage,Tax rate out of range: 75.0,WARNING
+HINDALCO,2016-03,tax_percentage,Tax rate out of range: 99.0,WARNING
+IOC,2020-03,tax_percentage,Tax rate out of range: -74.0,WARNING
+IRFC,2013-03,tax_percentage,Tax rate out of range: 64.0,WARNING
+JINDALSTEL,2015-03,tax_percentage,Tax rate out of range: -6.0,WARNING
+JINDALSTEL,2016-03,tax_percentage,Tax rate out of range: -22.0,WARNING
+JINDALSTEL,2017-03,tax_percentage,Tax rate out of range: -17.0,WARNING
+JINDALSTEL,2018-03,tax_percentage,Tax rate out of range: -13.0,WARNING
+JINDALSTEL,2019-03,tax_percentage,Tax rate out of range: -14.0,WARNING
+JSWENERGY,2018-03,tax_percentage,Tax rate out of range: 75.0,WARNING
+JSWSTEEL,2014-03,tax_percentage,Tax rate out of range: 70.0,WARNING
+JSWSTEEL,2016-03,tax_percentage,Tax rate out of range: -80.0,WARNING
+JSWSTEEL,2020-03,tax_percentage,Tax rate out of range: -30.0,WARNING
+LICI,2019-03,tax_percentage,Tax rate out of range: 68.0,WARNING
+LICI,2020-03,tax_percentage,Tax rate out of range: 80.0,WARNING
+LICI,2021-03,tax_percentage,Tax rate out of range: 76.0,WARNING
+LICI,2022-03,tax_percentage,Tax rate out of range: 66.0,WARNING
+LODHA,2021-03,tax_percentage,Tax rate out of range: -44.0,WARNING
+LODHA,2023-03,tax_percentage,Tax rate out of range: -8.0,WARNING
+M&M,2020-03,tax_percentage,Tax rate out of range: 99.0,WARNING
+MOTHERSON,2020-03,tax_percentage,Tax rate out of range: -5.0,WARNING
+NAUKRI,2015-03,tax_percentage,Tax rate out of range: 99.0,WARNING
+NAUKRI,2017-03,tax_percentage,Tax rate out of range: 99.0,WARNING
+NAUKRI,2020-03,tax_percentage,Tax rate out of range: 95.0,WARNING
+NAUKRI,2023-03,tax_percentage,Tax rate out of range: 99.0,WARNING
+NHPC,2020-03,tax_percentage,Tax rate out of range: -2.0,WARNING
+NHPC,2022-03,tax_percentage,Tax rate out of range: -17.0,WARNING
+NTPC,2016-03,tax_percentage,Tax rate out of range: -2.0,WARNING
+NTPC,2019-03,tax_percentage,Tax rate out of range: -25.0,WARNING
+PNB,2016-03,tax_percentage,Tax rate out of range: -31.0,WARNING
+PNB,2018-03,tax_percentage,Tax rate out of range: -37.0,WARNING
+PNB,2019-03,tax_percentage,Tax rate out of range: -35.0,WARNING
+POWERGRID,2019-03,tax_percentage,Tax rate out of range: -10.0,WARNING
+SBIN,2017-03,tax_percentage,Tax rate out of range: 99.0,WARNING
+SBIN,2018-03,tax_percentage,Tax rate out of range: -66.0,WARNING
+SHREECEM,2015-06,tax_percentage,Tax rate out of range: -6.0,WARNING
+TATACONSUM,2016-03,tax_percentage,Tax rate out of range: 99.0,WARNING
+TATAMOTORS,2019-03,tax_percentage,Tax rate out of range: -8.0,WARNING
+TATAMOTORS,2024-03,tax_percentage,Tax rate out of range: -14.0,WARNING
+TATAPOWER,2013-03,tax_percentage,Tax rate out of range: 92.0,WARNING
+TATAPOWER,2014-03,tax_percentage,Tax rate out of range: 99.0,WARNING
+TATAPOWER,2015-03,tax_percentage,Tax rate out of range: 72.0,WARNING
+TATASTEEL,2013-03,tax_percentage,Tax rate out of range: 78.0,WARNING
+TATASTEEL,2015-03,tax_percentage,Tax rate out of range: 99.0,WARNING
+TATASTEEL,2016-03,tax_percentage,Tax rate out of range: 99.0,WARNING
+TATASTEEL,2017-03,tax_percentage,Tax rate out of range: 99.0,WARNING
+TATASTEEL,2020-03,tax_percentage,Tax rate out of range: -99.0,WARNING
+TATASTEEL,2024-03,tax_percentage,Tax rate out of range: 99.0,WARNING
+TRENT,2013-03,tax_percentage,Tax rate out of range: 99.0,WARNING
+TRENT,2014-03,tax_percentage,Tax rate out of range: 99.0,WARNING
+TRENT,2021-03,tax_percentage,Tax rate out of range: -12.0,WARNING
+TRENT,2022-03,tax_percentage,Tax rate out of range: 69.0,WARNING
+ULTRACEMCO,2020-03,tax_percentage,Tax rate out of range: -11.0,WARNING
+UNIONBANK,2017-03,tax_percentage,Tax rate out of range: -58.0,WARNING
+UNIONBANK,2018-03,tax_percentage,Tax rate out of range: -21.0,WARNING
+UNIONBANK,2019-03,tax_percentage,Tax rate out of range: -25.0,WARNING
+UNIONBANK,2020-03,tax_percentage,Tax rate out of range: -27.0,WARNING
+UNIONBANK,2021-03,tax_percentage,Tax rate out of range: -22.0,WARNING
+UNITDSPR,2013-03,tax_percentage,Tax rate out of range: 99.0,WARNING
+UNITDSPR,2016-03,tax_percentage,Tax rate out of range: 61.0,WARNING
+VBL,2012-12,tax_percentage,Tax rate out of range: -20.0,WARNING
+VBL,2013-12,tax_percentage,Tax rate out of range: -11.0,WARNING
+VBL,2014-12,tax_percentage,Tax rate out of range: 99.0,WARNING
+VEDL,2013-03,tax_percentage,Tax rate out of range: -25.0,WARNING
+VEDL,2014-03,tax_percentage,Tax rate out of range: -9.0,WARNING
+VEDL,2016-03,tax_percentage,Tax rate out of range: -37.0,WARNING
+VEDL,2020-03,tax_percentage,Tax rate out of range: -43.0,WARNING
+VEDL,2024-03,tax_percentage,Tax rate out of range: 63.0,WARNING
+ZOMATO,2023-03,tax_percentage,Tax rate out of range: -4.0,WARNING
+ZOMATO,2024-03,tax_percentage,Tax rate out of range: -21.0,WARNING
+INDIGO,2019-03,tax_percentage,Tax rate out of range: -99.0,WARNING
+INDIGO,2020-03,tax_percentage,Tax rate out of range: -10.0,WARNING
+INDIGO,2024-03,tax_percentage,Tax rate out of range: -2.0,WARNING
+BHARTIARTL,2019-03,dividend_payout,Dividend payout >200%: 244.0,WARNING
+BRITANNIA,2021-03,dividend_payout,Dividend payout >200%: 204.0,WARNING
+M&M,2020-03,dividend_payout,Dividend payout >200%: 205.0,WARNING
+SBIN,2017-03,dividend_payout,Dividend payout >200%: 859.0,WARNING
+TATAPOWER,2015-03,dividend_payout,Dividend payout >200%: 210.0,WARNING
+VEDL,2023-03,dividend_payout,Dividend payout >200%: 357.0,WARNING
+VEDL,2024-03,dividend_payout,Dividend payout >200%: 259.0,WARNING
+ABB,,annual_report,Missing/empty Annual_Report URL,WARNING
+ABB,,annual_report,Missing/empty Annual_Report URL,WARNING
+ABB,,annual_report,Missing/empty Annual_Report URL,WARNING
+ABB,,annual_report,Missing/empty Annual_Report URL,WARNING
+ABB,,annual_report,Missing/empty Annual_Report URL,WARNING
+ABB,,annual_report,Missing/empty Annual_Report URL,WARNING
+ABB,,annual_report,Missing/empty Annual_Report URL,WARNING
+ABB,,annual_report,Missing/empty Annual_Report URL,WARNING
+ABB,,annual_report,Missing/empty Annual_Report URL,WARNING
+ABB,,annual_report,Missing/empty Annual_Report URL,WARNING
+ABB,,annual_report,Missing/empty Annual_Report URL,WARNING
+ABB,,annual_report,Missing/empty Annual_Report URL,WARNING
+ABB,,annual_report,Missing/empty Annual_Report URL,WARNING
+ABB,,annual_report,Missing/empty Annual_Report URL,WARNING
+ABB,,annual_report,Missing/empty Annual_Report URL,WARNING
+ABB,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENSOL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENSOL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENSOL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENSOL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENSOL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENSOL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENSOL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENSOL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENSOL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENSOL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENSOL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENSOL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENSOL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENSOL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENSOL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENSOL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIGREEN,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIGREEN,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIGREEN,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIGREEN,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIGREEN,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIGREEN,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIGREEN,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIGREEN,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIGREEN,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIGREEN,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIGREEN,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIGREEN,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIGREEN,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIGREEN,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIGREEN,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIGREEN,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPORTS,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPORTS,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPORTS,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPORTS,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPORTS,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPORTS,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPORTS,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPORTS,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPORTS,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPORTS,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPORTS,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPORTS,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPORTS,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPORTS,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPORTS,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPORTS,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+ADANIPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+AMBUJACEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+AMBUJACEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+AMBUJACEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+AMBUJACEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+AMBUJACEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+AMBUJACEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+AMBUJACEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+AMBUJACEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+AMBUJACEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+AMBUJACEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+AMBUJACEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+AMBUJACEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+AMBUJACEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+AMBUJACEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+AMBUJACEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+AMBUJACEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+APOLLOHOSP,,annual_report,Missing/empty Annual_Report URL,WARNING
+APOLLOHOSP,,annual_report,Missing/empty Annual_Report URL,WARNING
+APOLLOHOSP,,annual_report,Missing/empty Annual_Report URL,WARNING
+APOLLOHOSP,,annual_report,Missing/empty Annual_Report URL,WARNING
+APOLLOHOSP,,annual_report,Missing/empty Annual_Report URL,WARNING
+APOLLOHOSP,,annual_report,Missing/empty Annual_Report URL,WARNING
+APOLLOHOSP,,annual_report,Missing/empty Annual_Report URL,WARNING
+APOLLOHOSP,,annual_report,Missing/empty Annual_Report URL,WARNING
+APOLLOHOSP,,annual_report,Missing/empty Annual_Report URL,WARNING
+APOLLOHOSP,,annual_report,Missing/empty Annual_Report URL,WARNING
+APOLLOHOSP,,annual_report,Missing/empty Annual_Report URL,WARNING
+APOLLOHOSP,,annual_report,Missing/empty Annual_Report URL,WARNING
+APOLLOHOSP,,annual_report,Missing/empty Annual_Report URL,WARNING
+APOLLOHOSP,,annual_report,Missing/empty Annual_Report URL,WARNING
+APOLLOHOSP,,annual_report,Missing/empty Annual_Report URL,WARNING
+APOLLOHOSP,,annual_report,Missing/empty Annual_Report URL,WARNING
+ASIANPAINT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ASIANPAINT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ASIANPAINT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ASIANPAINT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ASIANPAINT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ASIANPAINT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ASIANPAINT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ASIANPAINT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ASIANPAINT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ASIANPAINT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ASIANPAINT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ASIANPAINT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ASIANPAINT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ASIANPAINT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ASIANPAINT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ASIANPAINT,,annual_report,Missing/empty Annual_Report URL,WARNING
+ATGL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ATGL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ATGL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ATGL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ATGL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ATGL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ATGL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ATGL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ATGL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ATGL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ATGL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ATGL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ATGL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ATGL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ATGL,,annual_report,Missing/empty Annual_Report URL,WARNING
+ATGL,,annual_report,Missing/empty Annual_Report URL,WARNING
+AXISBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+AXISBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+AXISBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+AXISBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+AXISBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+AXISBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+AXISBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+AXISBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+AXISBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+AXISBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+AXISBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+AXISBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+AXISBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+AXISBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+AXISBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+AXISBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJ-AUTO,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJ-AUTO,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJ-AUTO,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJ-AUTO,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJ-AUTO,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJ-AUTO,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJ-AUTO,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJ-AUTO,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJ-AUTO,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJ-AUTO,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJ-AUTO,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJ-AUTO,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJ-AUTO,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJ-AUTO,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJ-AUTO,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJ-AUTO,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJFINSV,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJFINSV,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJFINSV,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJFINSV,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJFINSV,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJFINSV,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJFINSV,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJFINSV,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJFINSV,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJFINSV,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJFINSV,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJFINSV,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJFINSV,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJFINSV,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJFINSV,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJFINSV,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJHLDNG,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJHLDNG,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJHLDNG,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJHLDNG,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJHLDNG,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJHLDNG,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJHLDNG,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJHLDNG,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJHLDNG,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJHLDNG,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJHLDNG,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJHLDNG,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJHLDNG,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJHLDNG,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJHLDNG,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJAJHLDNG,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJFINANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJFINANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJFINANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJFINANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJFINANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJFINANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJFINANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJFINANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJFINANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJFINANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJFINANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJFINANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJFINANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJFINANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJFINANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+BAJFINANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+BANKBARODA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BANKBARODA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BANKBARODA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BANKBARODA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BANKBARODA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BANKBARODA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BANKBARODA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BANKBARODA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BANKBARODA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BANKBARODA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BANKBARODA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BANKBARODA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BANKBARODA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BANKBARODA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BANKBARODA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BANKBARODA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHARTIARTL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHARTIARTL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHARTIARTL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHARTIARTL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHARTIARTL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHARTIARTL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHARTIARTL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHARTIARTL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHARTIARTL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHARTIARTL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHARTIARTL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHARTIARTL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHARTIARTL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHARTIARTL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHARTIARTL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHARTIARTL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BHEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BOSCHLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+BOSCHLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+BOSCHLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+BOSCHLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+BOSCHLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+BOSCHLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+BOSCHLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+BOSCHLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+BOSCHLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+BOSCHLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+BOSCHLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+BOSCHLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+BOSCHLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+BOSCHLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+BOSCHLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+BOSCHLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+BPCL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BPCL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BPCL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BPCL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BPCL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BPCL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BPCL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BPCL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BPCL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BPCL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BPCL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BPCL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BPCL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BPCL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BPCL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BPCL,,annual_report,Missing/empty Annual_Report URL,WARNING
+BRITANNIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BRITANNIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BRITANNIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BRITANNIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BRITANNIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BRITANNIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BRITANNIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BRITANNIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BRITANNIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BRITANNIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BRITANNIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BRITANNIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BRITANNIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BRITANNIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BRITANNIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+BRITANNIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+CANBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+CANBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+CANBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+CANBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+CANBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+CANBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+CANBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+CANBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+CANBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+CANBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+CANBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+CANBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+CANBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+CANBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+CANBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+CANBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+CHOLAFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+CHOLAFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+CHOLAFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+CHOLAFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+CHOLAFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+CHOLAFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+CHOLAFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+CHOLAFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+CHOLAFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+CHOLAFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+CHOLAFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+CHOLAFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+CHOLAFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+CHOLAFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+CHOLAFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+CHOLAFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+CIPLA,,annual_report,Missing/empty Annual_Report URL,WARNING
+CIPLA,,annual_report,Missing/empty Annual_Report URL,WARNING
+CIPLA,,annual_report,Missing/empty Annual_Report URL,WARNING
+CIPLA,,annual_report,Missing/empty Annual_Report URL,WARNING
+CIPLA,,annual_report,Missing/empty Annual_Report URL,WARNING
+CIPLA,,annual_report,Missing/empty Annual_Report URL,WARNING
+CIPLA,,annual_report,Missing/empty Annual_Report URL,WARNING
+CIPLA,,annual_report,Missing/empty Annual_Report URL,WARNING
+CIPLA,,annual_report,Missing/empty Annual_Report URL,WARNING
+CIPLA,,annual_report,Missing/empty Annual_Report URL,WARNING
+CIPLA,,annual_report,Missing/empty Annual_Report URL,WARNING
+CIPLA,,annual_report,Missing/empty Annual_Report URL,WARNING
+CIPLA,,annual_report,Missing/empty Annual_Report URL,WARNING
+CIPLA,,annual_report,Missing/empty Annual_Report URL,WARNING
+CIPLA,,annual_report,Missing/empty Annual_Report URL,WARNING
+CIPLA,,annual_report,Missing/empty Annual_Report URL,WARNING
+COALINDIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+COALINDIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+COALINDIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+COALINDIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+COALINDIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+COALINDIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+COALINDIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+COALINDIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+COALINDIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+COALINDIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+COALINDIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+COALINDIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+COALINDIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+COALINDIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+COALINDIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+COALINDIA,,annual_report,Missing/empty Annual_Report URL,WARNING
+DABUR,,annual_report,Missing/empty Annual_Report URL,WARNING
+DABUR,,annual_report,Missing/empty Annual_Report URL,WARNING
+DABUR,,annual_report,Missing/empty Annual_Report URL,WARNING
+DABUR,,annual_report,Missing/empty Annual_Report URL,WARNING
+DABUR,,annual_report,Missing/empty Annual_Report URL,WARNING
+DABUR,,annual_report,Missing/empty Annual_Report URL,WARNING
+DABUR,,annual_report,Missing/empty Annual_Report URL,WARNING
+DABUR,,annual_report,Missing/empty Annual_Report URL,WARNING
+DABUR,,annual_report,Missing/empty Annual_Report URL,WARNING
+DABUR,,annual_report,Missing/empty Annual_Report URL,WARNING
+DABUR,,annual_report,Missing/empty Annual_Report URL,WARNING
+DABUR,,annual_report,Missing/empty Annual_Report URL,WARNING
+DABUR,,annual_report,Missing/empty Annual_Report URL,WARNING
+DABUR,,annual_report,Missing/empty Annual_Report URL,WARNING
+DABUR,,annual_report,Missing/empty Annual_Report URL,WARNING
+DABUR,,annual_report,Missing/empty Annual_Report URL,WARNING
+DLF,,annual_report,Missing/empty Annual_Report URL,WARNING
+DLF,,annual_report,Missing/empty Annual_Report URL,WARNING
+DLF,,annual_report,Missing/empty Annual_Report URL,WARNING
+DLF,,annual_report,Missing/empty Annual_Report URL,WARNING
+DLF,,annual_report,Missing/empty Annual_Report URL,WARNING
+DLF,,annual_report,Missing/empty Annual_Report URL,WARNING
+DLF,,annual_report,Missing/empty Annual_Report URL,WARNING
+DLF,,annual_report,Missing/empty Annual_Report URL,WARNING
+DLF,,annual_report,Missing/empty Annual_Report URL,WARNING
+DLF,,annual_report,Missing/empty Annual_Report URL,WARNING
+DLF,,annual_report,Missing/empty Annual_Report URL,WARNING
+DLF,,annual_report,Missing/empty Annual_Report URL,WARNING
+DLF,,annual_report,Missing/empty Annual_Report URL,WARNING
+DLF,,annual_report,Missing/empty Annual_Report URL,WARNING
+DLF,,annual_report,Missing/empty Annual_Report URL,WARNING
+DLF,,annual_report,Missing/empty Annual_Report URL,WARNING
+DMART,,annual_report,Missing/empty Annual_Report URL,WARNING
+DMART,,annual_report,Missing/empty Annual_Report URL,WARNING
+DMART,,annual_report,Missing/empty Annual_Report URL,WARNING
+DMART,,annual_report,Missing/empty Annual_Report URL,WARNING
+DMART,,annual_report,Missing/empty Annual_Report URL,WARNING
+DMART,,annual_report,Missing/empty Annual_Report URL,WARNING
+DMART,,annual_report,Missing/empty Annual_Report URL,WARNING
+DMART,,annual_report,Missing/empty Annual_Report URL,WARNING
+DMART,,annual_report,Missing/empty Annual_Report URL,WARNING
+DMART,,annual_report,Missing/empty Annual_Report URL,WARNING
+DMART,,annual_report,Missing/empty Annual_Report URL,WARNING
+DMART,,annual_report,Missing/empty Annual_Report URL,WARNING
+DMART,,annual_report,Missing/empty Annual_Report URL,WARNING
+DMART,,annual_report,Missing/empty Annual_Report URL,WARNING
+DMART,,annual_report,Missing/empty Annual_Report URL,WARNING
+DMART,,annual_report,Missing/empty Annual_Report URL,WARNING
+DRREDDY,,annual_report,Missing/empty Annual_Report URL,WARNING
+DRREDDY,,annual_report,Missing/empty Annual_Report URL,WARNING
+DRREDDY,,annual_report,Missing/empty Annual_Report URL,WARNING
+DRREDDY,,annual_report,Missing/empty Annual_Report URL,WARNING
+DRREDDY,,annual_report,Missing/empty Annual_Report URL,WARNING
+DRREDDY,,annual_report,Missing/empty Annual_Report URL,WARNING
+DRREDDY,,annual_report,Missing/empty Annual_Report URL,WARNING
+DRREDDY,,annual_report,Missing/empty Annual_Report URL,WARNING
+DRREDDY,,annual_report,Missing/empty Annual_Report URL,WARNING
+DRREDDY,,annual_report,Missing/empty Annual_Report URL,WARNING
+DRREDDY,,annual_report,Missing/empty Annual_Report URL,WARNING
+DRREDDY,,annual_report,Missing/empty Annual_Report URL,WARNING
+DRREDDY,,annual_report,Missing/empty Annual_Report URL,WARNING
+DRREDDY,,annual_report,Missing/empty Annual_Report URL,WARNING
+DRREDDY,,annual_report,Missing/empty Annual_Report URL,WARNING
+DRREDDY,,annual_report,Missing/empty Annual_Report URL,WARNING
+EICHERMOT,,annual_report,Missing/empty Annual_Report URL,WARNING
+EICHERMOT,,annual_report,Missing/empty Annual_Report URL,WARNING
+EICHERMOT,,annual_report,Missing/empty Annual_Report URL,WARNING
+EICHERMOT,,annual_report,Missing/empty Annual_Report URL,WARNING
+EICHERMOT,,annual_report,Missing/empty Annual_Report URL,WARNING
+EICHERMOT,,annual_report,Missing/empty Annual_Report URL,WARNING
+EICHERMOT,,annual_report,Missing/empty Annual_Report URL,WARNING
+EICHERMOT,,annual_report,Missing/empty Annual_Report URL,WARNING
+EICHERMOT,,annual_report,Missing/empty Annual_Report URL,WARNING
+EICHERMOT,,annual_report,Missing/empty Annual_Report URL,WARNING
+EICHERMOT,,annual_report,Missing/empty Annual_Report URL,WARNING
+EICHERMOT,,annual_report,Missing/empty Annual_Report URL,WARNING
+EICHERMOT,,annual_report,Missing/empty Annual_Report URL,WARNING
+EICHERMOT,,annual_report,Missing/empty Annual_Report URL,WARNING
+EICHERMOT,,annual_report,Missing/empty Annual_Report URL,WARNING
+EICHERMOT,,annual_report,Missing/empty Annual_Report URL,WARNING
+GAIL,,annual_report,Missing/empty Annual_Report URL,WARNING
+GAIL,,annual_report,Missing/empty Annual_Report URL,WARNING
+GAIL,,annual_report,Missing/empty Annual_Report URL,WARNING
+GAIL,,annual_report,Missing/empty Annual_Report URL,WARNING
+GAIL,,annual_report,Missing/empty Annual_Report URL,WARNING
+GAIL,,annual_report,Missing/empty Annual_Report URL,WARNING
+GAIL,,annual_report,Missing/empty Annual_Report URL,WARNING
+GAIL,,annual_report,Missing/empty Annual_Report URL,WARNING
+GAIL,,annual_report,Missing/empty Annual_Report URL,WARNING
+GAIL,,annual_report,Missing/empty Annual_Report URL,WARNING
+GAIL,,annual_report,Missing/empty Annual_Report URL,WARNING
+GAIL,,annual_report,Missing/empty Annual_Report URL,WARNING
+GAIL,,annual_report,Missing/empty Annual_Report URL,WARNING
+GAIL,,annual_report,Missing/empty Annual_Report URL,WARNING
+GAIL,,annual_report,Missing/empty Annual_Report URL,WARNING
+GAIL,,annual_report,Missing/empty Annual_Report URL,WARNING
+GODREJCP,,annual_report,Missing/empty Annual_Report URL,WARNING
+GODREJCP,,annual_report,Missing/empty Annual_Report URL,WARNING
+GODREJCP,,annual_report,Missing/empty Annual_Report URL,WARNING
+GODREJCP,,annual_report,Missing/empty Annual_Report URL,WARNING
+GODREJCP,,annual_report,Missing/empty Annual_Report URL,WARNING
+GODREJCP,,annual_report,Missing/empty Annual_Report URL,WARNING
+GODREJCP,,annual_report,Missing/empty Annual_Report URL,WARNING
+GODREJCP,,annual_report,Missing/empty Annual_Report URL,WARNING
+GODREJCP,,annual_report,Missing/empty Annual_Report URL,WARNING
+GODREJCP,,annual_report,Missing/empty Annual_Report URL,WARNING
+GODREJCP,,annual_report,Missing/empty Annual_Report URL,WARNING
+GODREJCP,,annual_report,Missing/empty Annual_Report URL,WARNING
+GODREJCP,,annual_report,Missing/empty Annual_Report URL,WARNING
+GODREJCP,,annual_report,Missing/empty Annual_Report URL,WARNING
+GODREJCP,,annual_report,Missing/empty Annual_Report URL,WARNING
+GODREJCP,,annual_report,Missing/empty Annual_Report URL,WARNING
+GRASIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+GRASIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+GRASIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+GRASIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+GRASIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+GRASIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+GRASIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+GRASIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+GRASIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+GRASIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+GRASIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+GRASIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+GRASIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+GRASIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+GRASIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+GRASIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAL,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAL,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAL,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAL,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAL,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAL,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAL,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAL,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAL,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAL,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAL,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAL,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAL,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAL,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAL,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAL,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAL,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAVELLS,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAVELLS,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAVELLS,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAVELLS,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAVELLS,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAVELLS,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAVELLS,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAVELLS,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAVELLS,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAVELLS,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAVELLS,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAVELLS,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAVELLS,,annual_report,Missing/empty Annual_Report URL,WARNING
+HAVELLS,,annual_report,Missing/empty Annual_Report URL,WARNING
+HCLTECH,,annual_report,Missing/empty Annual_Report URL,WARNING
+HCLTECH,,annual_report,Missing/empty Annual_Report URL,WARNING
+HCLTECH,,annual_report,Missing/empty Annual_Report URL,WARNING
+HCLTECH,,annual_report,Missing/empty Annual_Report URL,WARNING
+HCLTECH,,annual_report,Missing/empty Annual_Report URL,WARNING
+HCLTECH,,annual_report,Missing/empty Annual_Report URL,WARNING
+HCLTECH,,annual_report,Missing/empty Annual_Report URL,WARNING
+HCLTECH,,annual_report,Missing/empty Annual_Report URL,WARNING
+HCLTECH,,annual_report,Missing/empty Annual_Report URL,WARNING
+HCLTECH,,annual_report,Missing/empty Annual_Report URL,WARNING
+HCLTECH,,annual_report,Missing/empty Annual_Report URL,WARNING
+HCLTECH,,annual_report,Missing/empty Annual_Report URL,WARNING
+HCLTECH,,annual_report,Missing/empty Annual_Report URL,WARNING
+HCLTECH,,annual_report,Missing/empty Annual_Report URL,WARNING
+HCLTECH,,annual_report,Missing/empty Annual_Report URL,WARNING
+HCLTECH,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+HDFCLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+HEROMOTOCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HEROMOTOCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HEROMOTOCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HEROMOTOCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HEROMOTOCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HEROMOTOCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HEROMOTOCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HEROMOTOCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HEROMOTOCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HEROMOTOCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HEROMOTOCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HEROMOTOCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HEROMOTOCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HEROMOTOCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HEROMOTOCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HEROMOTOCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDALCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDALCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDALCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDALCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDALCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDALCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDALCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDALCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDALCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDALCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDALCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDALCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDALCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDALCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDALCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDALCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDUNILVR,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDUNILVR,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDUNILVR,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDUNILVR,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDUNILVR,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDUNILVR,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDUNILVR,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDUNILVR,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDUNILVR,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDUNILVR,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDUNILVR,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDUNILVR,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDUNILVR,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDUNILVR,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDUNILVR,,annual_report,Missing/empty Annual_Report URL,WARNING
+HINDUNILVR,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIGI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIGI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIGI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIGI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIGI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIGI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIGI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIGI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIGI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIGI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIGI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIGI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIGI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIGI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIGI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIGI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIPRULI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIPRULI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIPRULI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIPRULI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIPRULI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIPRULI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIPRULI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIPRULI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIPRULI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIPRULI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIPRULI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIPRULI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIPRULI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIPRULI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIPRULI,,annual_report,Missing/empty Annual_Report URL,WARNING
+ICICIPRULI,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDIGO,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDIGO,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDIGO,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDIGO,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDIGO,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDIGO,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDIGO,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDIGO,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDIGO,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDIGO,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDIGO,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDIGO,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDIGO,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDIGO,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDIGO,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDIGO,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDUSINDBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDUSINDBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDUSINDBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDUSINDBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDUSINDBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDUSINDBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDUSINDBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDUSINDBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDUSINDBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDUSINDBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDUSINDBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDUSINDBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDUSINDBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDUSINDBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDUSINDBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+INDUSINDBK,,annual_report,Missing/empty Annual_Report URL,WARNING
+INFY,,annual_report,Missing/empty Annual_Report URL,WARNING
+INFY,,annual_report,Missing/empty Annual_Report URL,WARNING
+INFY,,annual_report,Missing/empty Annual_Report URL,WARNING
+INFY,,annual_report,Missing/empty Annual_Report URL,WARNING
+INFY,,annual_report,Missing/empty Annual_Report URL,WARNING
+INFY,,annual_report,Missing/empty Annual_Report URL,WARNING
+INFY,,annual_report,Missing/empty Annual_Report URL,WARNING
+INFY,,annual_report,Missing/empty Annual_Report URL,WARNING
+INFY,,annual_report,Missing/empty Annual_Report URL,WARNING
+INFY,,annual_report,Missing/empty Annual_Report URL,WARNING
+INFY,,annual_report,Missing/empty Annual_Report URL,WARNING
+INFY,,annual_report,Missing/empty Annual_Report URL,WARNING
+INFY,,annual_report,Missing/empty Annual_Report URL,WARNING
+INFY,,annual_report,Missing/empty Annual_Report URL,WARNING
+INFY,,annual_report,Missing/empty Annual_Report URL,WARNING
+INFY,,annual_report,Missing/empty Annual_Report URL,WARNING
+IOC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IOC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IOC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IOC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IOC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IOC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IOC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IOC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IOC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IOC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IOC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IOC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IOC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IOC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IOC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IOC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRCTC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRCTC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRCTC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRCTC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRCTC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRCTC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRCTC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRCTC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRCTC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRCTC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRCTC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRCTC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRCTC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRCTC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRCTC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRCTC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+IRFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ITC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ITC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ITC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ITC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ITC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ITC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ITC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ITC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ITC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ITC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ITC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ITC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ITC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ITC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ITC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ITC,,annual_report,Missing/empty Annual_Report URL,WARNING
+JINDALSTEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JINDALSTEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JINDALSTEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JINDALSTEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JINDALSTEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JINDALSTEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JINDALSTEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JINDALSTEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JINDALSTEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JINDALSTEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JINDALSTEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JINDALSTEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JINDALSTEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JINDALSTEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JINDALSTEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JINDALSTEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JIOFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+JIOFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+JIOFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+JIOFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+JIOFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+JIOFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+JIOFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+JIOFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+JIOFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+JIOFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+JIOFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+JIOFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+JIOFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+JIOFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+JIOFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+JIOFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWENERGY,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWENERGY,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWENERGY,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWENERGY,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWENERGY,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWENERGY,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWENERGY,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWENERGY,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWENERGY,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWENERGY,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWENERGY,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWENERGY,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWENERGY,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWENERGY,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWENERGY,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWENERGY,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWSTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWSTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWSTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWSTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWSTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWSTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWSTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWSTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWSTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWSTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWSTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWSTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWSTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWSTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWSTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWSTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+KOTAKBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+KOTAKBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+KOTAKBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+KOTAKBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+KOTAKBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+KOTAKBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+KOTAKBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+KOTAKBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+KOTAKBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+KOTAKBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+KOTAKBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+KOTAKBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+KOTAKBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+KOTAKBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+KOTAKBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+KOTAKBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+LICI,,annual_report,Missing/empty Annual_Report URL,WARNING
+LICI,,annual_report,Missing/empty Annual_Report URL,WARNING
+LICI,,annual_report,Missing/empty Annual_Report URL,WARNING
+LICI,,annual_report,Missing/empty Annual_Report URL,WARNING
+LICI,,annual_report,Missing/empty Annual_Report URL,WARNING
+LICI,,annual_report,Missing/empty Annual_Report URL,WARNING
+LICI,,annual_report,Missing/empty Annual_Report URL,WARNING
+LICI,,annual_report,Missing/empty Annual_Report URL,WARNING
+LICI,,annual_report,Missing/empty Annual_Report URL,WARNING
+LICI,,annual_report,Missing/empty Annual_Report URL,WARNING
+LICI,,annual_report,Missing/empty Annual_Report URL,WARNING
+LICI,,annual_report,Missing/empty Annual_Report URL,WARNING
+LICI,,annual_report,Missing/empty Annual_Report URL,WARNING
+LICI,,annual_report,Missing/empty Annual_Report URL,WARNING
+LICI,,annual_report,Missing/empty Annual_Report URL,WARNING
+LICI,,annual_report,Missing/empty Annual_Report URL,WARNING
+LODHA,,annual_report,Missing/empty Annual_Report URL,WARNING
+LODHA,,annual_report,Missing/empty Annual_Report URL,WARNING
+LODHA,,annual_report,Missing/empty Annual_Report URL,WARNING
+LODHA,,annual_report,Missing/empty Annual_Report URL,WARNING
+LODHA,,annual_report,Missing/empty Annual_Report URL,WARNING
+LODHA,,annual_report,Missing/empty Annual_Report URL,WARNING
+LODHA,,annual_report,Missing/empty Annual_Report URL,WARNING
+LODHA,,annual_report,Missing/empty Annual_Report URL,WARNING
+LODHA,,annual_report,Missing/empty Annual_Report URL,WARNING
+LODHA,,annual_report,Missing/empty Annual_Report URL,WARNING
+LODHA,,annual_report,Missing/empty Annual_Report URL,WARNING
+LODHA,,annual_report,Missing/empty Annual_Report URL,WARNING
+LODHA,,annual_report,Missing/empty Annual_Report URL,WARNING
+LODHA,,annual_report,Missing/empty Annual_Report URL,WARNING
+LODHA,,annual_report,Missing/empty Annual_Report URL,WARNING
+LODHA,,annual_report,Missing/empty Annual_Report URL,WARNING
+LT,,annual_report,Missing/empty Annual_Report URL,WARNING
+LT,,annual_report,Missing/empty Annual_Report URL,WARNING
+LT,,annual_report,Missing/empty Annual_Report URL,WARNING
+LT,,annual_report,Missing/empty Annual_Report URL,WARNING
+LT,,annual_report,Missing/empty Annual_Report URL,WARNING
+LT,,annual_report,Missing/empty Annual_Report URL,WARNING
+LT,,annual_report,Missing/empty Annual_Report URL,WARNING
+LT,,annual_report,Missing/empty Annual_Report URL,WARNING
+LT,,annual_report,Missing/empty Annual_Report URL,WARNING
+LT,,annual_report,Missing/empty Annual_Report URL,WARNING
+LT,,annual_report,Missing/empty Annual_Report URL,WARNING
+LT,,annual_report,Missing/empty Annual_Report URL,WARNING
+LT,,annual_report,Missing/empty Annual_Report URL,WARNING
+LT,,annual_report,Missing/empty Annual_Report URL,WARNING
+LT,,annual_report,Missing/empty Annual_Report URL,WARNING
+LT,,annual_report,Missing/empty Annual_Report URL,WARNING
+LTIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+LTIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+LTIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+LTIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+LTIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+LTIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+LTIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+LTIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+LTIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+LTIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+LTIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+LTIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+LTIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+LTIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+LTIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+LTIM,,annual_report,Missing/empty Annual_Report URL,WARNING
+M&M,,annual_report,Missing/empty Annual_Report URL,WARNING
+M&M,,annual_report,Missing/empty Annual_Report URL,WARNING
+M&M,,annual_report,Missing/empty Annual_Report URL,WARNING
+M&M,,annual_report,Missing/empty Annual_Report URL,WARNING
+M&M,,annual_report,Missing/empty Annual_Report URL,WARNING
+M&M,,annual_report,Missing/empty Annual_Report URL,WARNING
+M&M,,annual_report,Missing/empty Annual_Report URL,WARNING
+M&M,,annual_report,Missing/empty Annual_Report URL,WARNING
+M&M,,annual_report,Missing/empty Annual_Report URL,WARNING
+M&M,,annual_report,Missing/empty Annual_Report URL,WARNING
+M&M,,annual_report,Missing/empty Annual_Report URL,WARNING
+M&M,,annual_report,Missing/empty Annual_Report URL,WARNING
+M&M,,annual_report,Missing/empty Annual_Report URL,WARNING
+M&M,,annual_report,Missing/empty Annual_Report URL,WARNING
+M&M,,annual_report,Missing/empty Annual_Report URL,WARNING
+M&M,,annual_report,Missing/empty Annual_Report URL,WARNING
+MARUTI,,annual_report,Missing/empty Annual_Report URL,WARNING
+MARUTI,,annual_report,Missing/empty Annual_Report URL,WARNING
+MARUTI,,annual_report,Missing/empty Annual_Report URL,WARNING
+MARUTI,,annual_report,Missing/empty Annual_Report URL,WARNING
+MARUTI,,annual_report,Missing/empty Annual_Report URL,WARNING
+MARUTI,,annual_report,Missing/empty Annual_Report URL,WARNING
+MARUTI,,annual_report,Missing/empty Annual_Report URL,WARNING
+MARUTI,,annual_report,Missing/empty Annual_Report URL,WARNING
+MARUTI,,annual_report,Missing/empty Annual_Report URL,WARNING
+MARUTI,,annual_report,Missing/empty Annual_Report URL,WARNING
+MARUTI,,annual_report,Missing/empty Annual_Report URL,WARNING
+MARUTI,,annual_report,Missing/empty Annual_Report URL,WARNING
+MARUTI,,annual_report,Missing/empty Annual_Report URL,WARNING
+MARUTI,,annual_report,Missing/empty Annual_Report URL,WARNING
+MARUTI,,annual_report,Missing/empty Annual_Report URL,WARNING
+MARUTI,,annual_report,Missing/empty Annual_Report URL,WARNING
+MOTHERSON,,annual_report,Missing/empty Annual_Report URL,WARNING
+MOTHERSON,,annual_report,Missing/empty Annual_Report URL,WARNING
+MOTHERSON,,annual_report,Missing/empty Annual_Report URL,WARNING
+MOTHERSON,,annual_report,Missing/empty Annual_Report URL,WARNING
+MOTHERSON,,annual_report,Missing/empty Annual_Report URL,WARNING
+MOTHERSON,,annual_report,Missing/empty Annual_Report URL,WARNING
+MOTHERSON,,annual_report,Missing/empty Annual_Report URL,WARNING
+MOTHERSON,,annual_report,Missing/empty Annual_Report URL,WARNING
+MOTHERSON,,annual_report,Missing/empty Annual_Report URL,WARNING
+MOTHERSON,,annual_report,Missing/empty Annual_Report URL,WARNING
+MOTHERSON,,annual_report,Missing/empty Annual_Report URL,WARNING
+MOTHERSON,,annual_report,Missing/empty Annual_Report URL,WARNING
+MOTHERSON,,annual_report,Missing/empty Annual_Report URL,WARNING
+MOTHERSON,,annual_report,Missing/empty Annual_Report URL,WARNING
+MOTHERSON,,annual_report,Missing/empty Annual_Report URL,WARNING
+MOTHERSON,,annual_report,Missing/empty Annual_Report URL,WARNING
+NAUKRI,,annual_report,Missing/empty Annual_Report URL,WARNING
+NAUKRI,,annual_report,Missing/empty Annual_Report URL,WARNING
+NAUKRI,,annual_report,Missing/empty Annual_Report URL,WARNING
+NAUKRI,,annual_report,Missing/empty Annual_Report URL,WARNING
+NAUKRI,,annual_report,Missing/empty Annual_Report URL,WARNING
+NAUKRI,,annual_report,Missing/empty Annual_Report URL,WARNING
+NAUKRI,,annual_report,Missing/empty Annual_Report URL,WARNING
+NAUKRI,,annual_report,Missing/empty Annual_Report URL,WARNING
+NAUKRI,,annual_report,Missing/empty Annual_Report URL,WARNING
+NAUKRI,,annual_report,Missing/empty Annual_Report URL,WARNING
+NAUKRI,,annual_report,Missing/empty Annual_Report URL,WARNING
+NAUKRI,,annual_report,Missing/empty Annual_Report URL,WARNING
+NAUKRI,,annual_report,Missing/empty Annual_Report URL,WARNING
+NAUKRI,,annual_report,Missing/empty Annual_Report URL,WARNING
+NAUKRI,,annual_report,Missing/empty Annual_Report URL,WARNING
+NAUKRI,,annual_report,Missing/empty Annual_Report URL,WARNING
+NESTLEIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+NESTLEIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+NESTLEIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+NESTLEIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+NESTLEIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+NESTLEIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+NESTLEIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+NESTLEIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+NESTLEIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+NESTLEIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+NESTLEIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+NESTLEIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+NESTLEIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+NESTLEIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+NESTLEIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+NESTLEIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+NHPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NHPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NHPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NHPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NHPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NHPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NHPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NHPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NHPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NHPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NHPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NHPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NHPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NHPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NHPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NHPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NTPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NTPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NTPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NTPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NTPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NTPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NTPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NTPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NTPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NTPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NTPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NTPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NTPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NTPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NTPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+NTPC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ONGC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ONGC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ONGC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ONGC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ONGC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ONGC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ONGC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ONGC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ONGC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ONGC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ONGC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ONGC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ONGC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ONGC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ONGC,,annual_report,Missing/empty Annual_Report URL,WARNING
+ONGC,,annual_report,Missing/empty Annual_Report URL,WARNING
+PFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+PFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+PFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+PFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+PFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+PFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+PFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+PFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+PFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+PFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+PFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+PFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+PFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+PFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+PFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+PFC,,annual_report,Missing/empty Annual_Report URL,WARNING
+PIDILITIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+PIDILITIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+PIDILITIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+PIDILITIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+PIDILITIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+PIDILITIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+PIDILITIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+PIDILITIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+PIDILITIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+PIDILITIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+PIDILITIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+PIDILITIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+PIDILITIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+PIDILITIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+PIDILITIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+PIDILITIND,,annual_report,Missing/empty Annual_Report URL,WARNING
+PNB,,annual_report,Missing/empty Annual_Report URL,WARNING
+PNB,,annual_report,Missing/empty Annual_Report URL,WARNING
+PNB,,annual_report,Missing/empty Annual_Report URL,WARNING
+PNB,,annual_report,Missing/empty Annual_Report URL,WARNING
+PNB,,annual_report,Missing/empty Annual_Report URL,WARNING
+PNB,,annual_report,Missing/empty Annual_Report URL,WARNING
+PNB,,annual_report,Missing/empty Annual_Report URL,WARNING
+PNB,,annual_report,Missing/empty Annual_Report URL,WARNING
+PNB,,annual_report,Missing/empty Annual_Report URL,WARNING
+PNB,,annual_report,Missing/empty Annual_Report URL,WARNING
+PNB,,annual_report,Missing/empty Annual_Report URL,WARNING
+PNB,,annual_report,Missing/empty Annual_Report URL,WARNING
+PNB,,annual_report,Missing/empty Annual_Report URL,WARNING
+PNB,,annual_report,Missing/empty Annual_Report URL,WARNING
+PNB,,annual_report,Missing/empty Annual_Report URL,WARNING
+PNB,,annual_report,Missing/empty Annual_Report URL,WARNING
+POWERGRID,,annual_report,Missing/empty Annual_Report URL,WARNING
+POWERGRID,,annual_report,Missing/empty Annual_Report URL,WARNING
+POWERGRID,,annual_report,Missing/empty Annual_Report URL,WARNING
+POWERGRID,,annual_report,Missing/empty Annual_Report URL,WARNING
+POWERGRID,,annual_report,Missing/empty Annual_Report URL,WARNING
+POWERGRID,,annual_report,Missing/empty Annual_Report URL,WARNING
+POWERGRID,,annual_report,Missing/empty Annual_Report URL,WARNING
+POWERGRID,,annual_report,Missing/empty Annual_Report URL,WARNING
+POWERGRID,,annual_report,Missing/empty Annual_Report URL,WARNING
+POWERGRID,,annual_report,Missing/empty Annual_Report URL,WARNING
+POWERGRID,,annual_report,Missing/empty Annual_Report URL,WARNING
+POWERGRID,,annual_report,Missing/empty Annual_Report URL,WARNING
+POWERGRID,,annual_report,Missing/empty Annual_Report URL,WARNING
+POWERGRID,,annual_report,Missing/empty Annual_Report URL,WARNING
+POWERGRID,,annual_report,Missing/empty Annual_Report URL,WARNING
+POWERGRID,,annual_report,Missing/empty Annual_Report URL,WARNING
+RECLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+RECLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+RECLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+RECLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+RECLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+RECLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+RECLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+RECLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+RECLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+RECLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+RECLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+RECLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+RECLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+RECLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+RECLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+RECLTD,,annual_report,Missing/empty Annual_Report URL,WARNING
+RELIANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+RELIANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+RELIANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+RELIANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+RELIANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+RELIANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+RELIANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+RELIANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+RELIANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+RELIANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+RELIANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+RELIANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+RELIANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+RELIANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+RELIANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+RELIANCE,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBILIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBILIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBILIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBILIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBILIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBILIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBILIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBILIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBILIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBILIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBILIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBILIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBILIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBILIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBILIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBILIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SBIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHREECEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHREECEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHREECEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHREECEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHREECEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHREECEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHREECEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHREECEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHREECEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHREECEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHREECEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHREECEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHREECEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHREECEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHREECEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHREECEM,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHRIRAMFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHRIRAMFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHRIRAMFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHRIRAMFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHRIRAMFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHRIRAMFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHRIRAMFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHRIRAMFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHRIRAMFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHRIRAMFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHRIRAMFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHRIRAMFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHRIRAMFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHRIRAMFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHRIRAMFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SHRIRAMFIN,,annual_report,Missing/empty Annual_Report URL,WARNING
+SIEMENS,,annual_report,Missing/empty Annual_Report URL,WARNING
+SIEMENS,,annual_report,Missing/empty Annual_Report URL,WARNING
+SIEMENS,,annual_report,Missing/empty Annual_Report URL,WARNING
+SIEMENS,,annual_report,Missing/empty Annual_Report URL,WARNING
+SIEMENS,,annual_report,Missing/empty Annual_Report URL,WARNING
+SIEMENS,,annual_report,Missing/empty Annual_Report URL,WARNING
+SIEMENS,,annual_report,Missing/empty Annual_Report URL,WARNING
+SIEMENS,,annual_report,Missing/empty Annual_Report URL,WARNING
+SIEMENS,,annual_report,Missing/empty Annual_Report URL,WARNING
+SIEMENS,,annual_report,Missing/empty Annual_Report URL,WARNING
+SIEMENS,,annual_report,Missing/empty Annual_Report URL,WARNING
+SIEMENS,,annual_report,Missing/empty Annual_Report URL,WARNING
+SIEMENS,,annual_report,Missing/empty Annual_Report URL,WARNING
+SIEMENS,,annual_report,Missing/empty Annual_Report URL,WARNING
+SIEMENS,,annual_report,Missing/empty Annual_Report URL,WARNING
+SIEMENS,,annual_report,Missing/empty Annual_Report URL,WARNING
+SUNPHARMA,,annual_report,Missing/empty Annual_Report URL,WARNING
+SUNPHARMA,,annual_report,Missing/empty Annual_Report URL,WARNING
+SUNPHARMA,,annual_report,Missing/empty Annual_Report URL,WARNING
+SUNPHARMA,,annual_report,Missing/empty Annual_Report URL,WARNING
+SUNPHARMA,,annual_report,Missing/empty Annual_Report URL,WARNING
+SUNPHARMA,,annual_report,Missing/empty Annual_Report URL,WARNING
+SUNPHARMA,,annual_report,Missing/empty Annual_Report URL,WARNING
+SUNPHARMA,,annual_report,Missing/empty Annual_Report URL,WARNING
+SUNPHARMA,,annual_report,Missing/empty Annual_Report URL,WARNING
+SUNPHARMA,,annual_report,Missing/empty Annual_Report URL,WARNING
+SUNPHARMA,,annual_report,Missing/empty Annual_Report URL,WARNING
+SUNPHARMA,,annual_report,Missing/empty Annual_Report URL,WARNING
+SUNPHARMA,,annual_report,Missing/empty Annual_Report URL,WARNING
+SUNPHARMA,,annual_report,Missing/empty Annual_Report URL,WARNING
+SUNPHARMA,,annual_report,Missing/empty Annual_Report URL,WARNING
+SUNPHARMA,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATACONSUM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATACONSUM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATACONSUM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATACONSUM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATACONSUM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATACONSUM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATACONSUM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATACONSUM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATACONSUM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATACONSUM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATACONSUM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATACONSUM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATACONSUM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATACONSUM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATACONSUM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATACONSUM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAMOTORS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAMOTORS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAMOTORS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAMOTORS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAMOTORS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAMOTORS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAMOTORS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAMOTORS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAMOTORS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAMOTORS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAMOTORS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAMOTORS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAMOTORS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAMOTORS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAMOTORS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAMOTORS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATAPOWER,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATASTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATASTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATASTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATASTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATASTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATASTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATASTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATASTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATASTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATASTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATASTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATASTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATASTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATASTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATASTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+TATASTEEL,,annual_report,Missing/empty Annual_Report URL,WARNING
+TCS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TCS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TCS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TCS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TCS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TCS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TCS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TCS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TCS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TCS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TCS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TCS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TCS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TCS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TCS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TCS,,annual_report,Missing/empty Annual_Report URL,WARNING
+TECHM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TECHM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TECHM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TECHM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TECHM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TECHM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TECHM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TECHM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TECHM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TECHM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TECHM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TECHM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TECHM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TECHM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TECHM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TECHM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TITAN,,annual_report,Missing/empty Annual_Report URL,WARNING
+TITAN,,annual_report,Missing/empty Annual_Report URL,WARNING
+TITAN,,annual_report,Missing/empty Annual_Report URL,WARNING
+TITAN,,annual_report,Missing/empty Annual_Report URL,WARNING
+TITAN,,annual_report,Missing/empty Annual_Report URL,WARNING
+TITAN,,annual_report,Missing/empty Annual_Report URL,WARNING
+TITAN,,annual_report,Missing/empty Annual_Report URL,WARNING
+TITAN,,annual_report,Missing/empty Annual_Report URL,WARNING
+TITAN,,annual_report,Missing/empty Annual_Report URL,WARNING
+TITAN,,annual_report,Missing/empty Annual_Report URL,WARNING
+TITAN,,annual_report,Missing/empty Annual_Report URL,WARNING
+TITAN,,annual_report,Missing/empty Annual_Report URL,WARNING
+TITAN,,annual_report,Missing/empty Annual_Report URL,WARNING
+TITAN,,annual_report,Missing/empty Annual_Report URL,WARNING
+TITAN,,annual_report,Missing/empty Annual_Report URL,WARNING
+TITAN,,annual_report,Missing/empty Annual_Report URL,WARNING
+TORNTPHARM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TORNTPHARM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TORNTPHARM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TORNTPHARM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TORNTPHARM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TORNTPHARM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TORNTPHARM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TORNTPHARM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TORNTPHARM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TORNTPHARM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TORNTPHARM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TORNTPHARM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TORNTPHARM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TORNTPHARM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TORNTPHARM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TORNTPHARM,,annual_report,Missing/empty Annual_Report URL,WARNING
+TRENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+TRENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+TRENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+TRENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+TRENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+TRENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+TRENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+TRENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+TRENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+TRENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+TRENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+TRENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+TRENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+TRENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+TRENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+TRENT,,annual_report,Missing/empty Annual_Report URL,WARNING
+TVSMOTOR,,annual_report,Missing/empty Annual_Report URL,WARNING
+TVSMOTOR,,annual_report,Missing/empty Annual_Report URL,WARNING
+TVSMOTOR,,annual_report,Missing/empty Annual_Report URL,WARNING
+TVSMOTOR,,annual_report,Missing/empty Annual_Report URL,WARNING
+TVSMOTOR,,annual_report,Missing/empty Annual_Report URL,WARNING
+TVSMOTOR,,annual_report,Missing/empty Annual_Report URL,WARNING
+TVSMOTOR,,annual_report,Missing/empty Annual_Report URL,WARNING
+TVSMOTOR,,annual_report,Missing/empty Annual_Report URL,WARNING
+TVSMOTOR,,annual_report,Missing/empty Annual_Report URL,WARNING
+TVSMOTOR,,annual_report,Missing/empty Annual_Report URL,WARNING
+TVSMOTOR,,annual_report,Missing/empty Annual_Report URL,WARNING
+TVSMOTOR,,annual_report,Missing/empty Annual_Report URL,WARNING
+TVSMOTOR,,annual_report,Missing/empty Annual_Report URL,WARNING
+TVSMOTOR,,annual_report,Missing/empty Annual_Report URL,WARNING
+TVSMOTOR,,annual_report,Missing/empty Annual_Report URL,WARNING
+TVSMOTOR,,annual_report,Missing/empty Annual_Report URL,WARNING
+ULTRACEMCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ULTRACEMCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ULTRACEMCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ULTRACEMCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ULTRACEMCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ULTRACEMCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ULTRACEMCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ULTRACEMCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ULTRACEMCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ULTRACEMCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ULTRACEMCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ULTRACEMCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ULTRACEMCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ULTRACEMCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ULTRACEMCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ULTRACEMCO,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNIONBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNIONBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNIONBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNIONBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNIONBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNIONBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNIONBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNIONBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNIONBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNIONBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNIONBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNIONBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNIONBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNIONBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNIONBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNIONBANK,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNITDSPR,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNITDSPR,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNITDSPR,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNITDSPR,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNITDSPR,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNITDSPR,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNITDSPR,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNITDSPR,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNITDSPR,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNITDSPR,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNITDSPR,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNITDSPR,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNITDSPR,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNITDSPR,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNITDSPR,,annual_report,Missing/empty Annual_Report URL,WARNING
+UNITDSPR,,annual_report,Missing/empty Annual_Report URL,WARNING
+VBL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VBL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VBL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VBL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VBL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VBL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VBL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VBL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VBL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VBL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VBL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VBL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VBL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VBL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VBL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VBL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VEDL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VEDL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VEDL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VEDL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VEDL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VEDL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VEDL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VEDL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VEDL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VEDL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VEDL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VEDL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VEDL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VEDL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VEDL,,annual_report,Missing/empty Annual_Report URL,WARNING
+VEDL,,annual_report,Missing/empty Annual_Report URL,WARNING
+WIPRO,,annual_report,Missing/empty Annual_Report URL,WARNING
+WIPRO,,annual_report,Missing/empty Annual_Report URL,WARNING
+WIPRO,,annual_report,Missing/empty Annual_Report URL,WARNING
+WIPRO,,annual_report,Missing/empty Annual_Report URL,WARNING
+WIPRO,,annual_report,Missing/empty Annual_Report URL,WARNING
+WIPRO,,annual_report,Missing/empty Annual_Report URL,WARNING
+WIPRO,,annual_report,Missing/empty Annual_Report URL,WARNING
+WIPRO,,annual_report,Missing/empty Annual_Report URL,WARNING
+WIPRO,,annual_report,Missing/empty Annual_Report URL,WARNING
+WIPRO,,annual_report,Missing/empty Annual_Report URL,WARNING
+WIPRO,,annual_report,Missing/empty Annual_Report URL,WARNING
+WIPRO,,annual_report,Missing/empty Annual_Report URL,WARNING
+WIPRO,,annual_report,Missing/empty Annual_Report URL,WARNING
+WIPRO,,annual_report,Missing/empty Annual_Report URL,WARNING
+WIPRO,,annual_report,Missing/empty Annual_Report URL,WARNING
+WIPRO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZOMATO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZOMATO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZOMATO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZOMATO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZOMATO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZOMATO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZOMATO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZOMATO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZOMATO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZOMATO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZOMATO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZOMATO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZOMATO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZOMATO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZOMATO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZOMATO,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZYDUSLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZYDUSLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZYDUSLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZYDUSLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZYDUSLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZYDUSLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZYDUSLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZYDUSLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZYDUSLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZYDUSLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZYDUSLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZYDUSLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZYDUSLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZYDUSLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZYDUSLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+ZYDUSLIFE,,annual_report,Missing/empty Annual_Report URL,WARNING
+JSWENERGY,2018-03,eps,"EPS sign mismatch: net_profit=85, eps=0.0",WARNING
+TATAPOWER,2013-03,eps,"EPS sign mismatch: net_profit=123, eps=0.0",WARNING
+TATAPOWER,2014-03,eps,"EPS sign mismatch: net_profit=12, eps=-1.0",WARNING
+VBL,2016-12,eps,"EPS sign mismatch: net_profit=48, eps=0.0",WARNING
+ZOMATO,2024-03,eps,"EPS sign mismatch: net_profit=351, eps=0.0",WARNING
+JIOFIN,,coverage,Only 3 distinct years of P&L/BS/CF history (<5),WARNING
